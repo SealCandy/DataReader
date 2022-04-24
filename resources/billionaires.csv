@@ -1,0 +1,2615 @@
+name;rank;year;company;country;worth
+Bill Gates;1;1996;Microsoft;USA;18,5
+Bill Gates;1;2001;Microsoft;USA;58,7
+Bill Gates;1;2014;Microsoft;USA;76
+Warren Buffett;2;1996;Berkshire Hathaway;USA;15
+Warren Buffett;2;2001;Berkshire Hathaway;USA;32,3
+Carlos Slim Helu;2;2014;Telmex;MEX;72
+Oeri Hoffman and Sacher;3;1996;F. Hoffmann-La Roche;CHE;13,1
+Paul Allen;3;2001;Microsoft;USA;30,4
+Amancio Ortega;3;2014;Zara;ESP;64
+Lee Shau Kee;4;1996;Henderson Land Development;HKG;12,7
+Larry Ellison;4;2001;Oracle;USA;26
+Warren Buffett;4;2014;Berkshire Hathaway;USA;58,2
+Tsai Wan-lin;5;1996;Lin Yuan Group;Taiwan;12,2
+Theo and Karl Albrecht;5;2001;Aldi;DEU;25
+Larry Ellison;5;2014;Oracle;USA;48
+Walter Thomas and Raymond Kwok;6;1996;Sun Hung Kai Properties;HKG;11,2
+Prince Alwaleed Bin Talal Alsaud;6;2001;Kingdom Holding Company;SAU;20
+Charles Koch;6;2014;Koch industries;USA;40
+David Koch;6;2014;Koch industries;USA;40
+Li Ka-shing;7;1996;Cheung king;HKG;10,6
+Jim Walton;7;2001;Walmart;USA;18,8
+Yoshiaki Tsutsumi;8;1996;Seibu Corporation;JPN;9,2
+John Walton;8;2001;Walmart;USA;18,7
+Sheldon Adelson;8;2014;Las Vegas Sands;USA;38
+Theo and Karl Albrecht;9;1996;Aldi Nord;DEU;9
+S Robson Walton;9;2001;Walmart;USA;18,6
+Christy Walton;9;2014;Walmart;USA;36,7
+Hans and Gad Rausing;10;1996;Tetra Pak;SWE;9
+Alice Walton;10;2001;Walmart;USA;18,5
+Helen Walton;10;2001;Walmart;USA;18,5
+Jim Walton;10;2014;Walmart;USA;34,7
+Johanna Quandt;11;1996;BMW;DEU;8,1
+Liliane Bettencourt;11;2014;L'Oreal;FRA;34,5
+Haniel family;12;1996;Franz Haniel & Cie;DEU;8,1
+Johanna Quandt;12;2001;BMW;DEU;17,8
+Stefan Persson;12;2014; H&M;SWE;34,4
+Paul Allen;13;1996;Microsoft;USA;7,5
+Steven Ballmer;13;2001;Microsoft;USA;16,6
+Alice Walton;13;2014;Walmart;USA;34,3
+Kenneth Thomson;14;1996;Thomson Corporation (now Thomson Reuters);CAN;7,4
+Kenneth Thomson;14;2001;Thomson Corporation (now Thomson Reuters);CAN;16,4
+S. Robson Walton;14;2014;Walmart;USA;34,2
+John Kluge;15;1996;Metropolitan Broadcasting Corporation;USA;7,2
+Liliane Bettencourt;15;2001;L'Oreal;FRA;15,6
+Bernard Arnault;15;2014;LVMH;FRA;33,5
+Tan Yu;16;1996;Asiaworld Internationale Group;PHL;7
+Philip Anschutz;16;2001;Circle A Drilling;USA;15,3
+Michael Bloomberg;16;2014;Bloomberg;USA;33
+Wonowidjojo family;17;1996;Gudang Garam;IDN;6,7
+Ingvar Kamprad;17;2001;IKEA;SWE;13
+Larry Page;17;2014;Google;USA;32,3
+Carlos Slim Helu;18;1996;Telmex;MEX;6,1
+Li Ka-shing;18;2001;Cheung king;HKG;12,6
+Sumner Redstone;18;2001;National Amusements;USA;12,6
+Jeff Bezos;18;2014;Amazon;USA;32
+Larry Ellison;19;1996;Oracle;USA;6
+Sergey Brin;19;2014;Google;USA;31,8
+Chung Ju-yung;20;1996;Hyundai Group;KOR;5,9
+Leo Kirch;20;2001;Kirch Group;DEU;12
+Li Ka-shing;20;2014;Cheung Kong;HKG;31
+Gerard Mulliez;21;1996;Auchan;FRA;5,7
+Anne Cox Chambers;21;2001;Cox Enterprises;USA;11,7
+Barbara Cox Anthony;21;2001;Cox Enterprises;USA;11,7
+Mark Zuckerberg;21;2014; Facebook;USA;28,5
+Robert Kuok;22;1996;Tana Exploration Company;MYS;5,7
+Michele Ferrero;22;2014;Ferrero spa;ITA;26,5
+Kwek Leng Beng;23;1996;Hong Leong Group;SGP;5,7
+Walter Thomas and Raymond Kwok;23;2001;Sun Hung Kai Properties;HKG;11,5
+Aliko Dangote;23;2014;Dangote Group;NGA;25
+Karl Albrecht;23;2014;Aldi Sud;DEU;25
+Cheng Yu-tung;24;1996;Chow Tai Fook Enterprises;HKG;5,5
+John Kluge;24;2001;Metropolitan Broadcasting Corporation;USA;10,9
+Walter Haefner;25;1996;Automation Center;CHE;5,5
+Carlos Slim Helu;25;2001;Telmex;MEX;10,8
+Carl Icahn;25;2014;Icahn Enterprises;USA;24,5
+Philip Knight;26;1996;Nike;USA;5,3
+Bernard Arnault;26;2001;LVMH;FRA;10,7
+George Soros;26;2014;Soros Fund Management;USA;23
+Michael Otto;27;1996;Otto Group;DEU;5,2
+Ernesto Bertarelli;27;2001;Serono;CHE;10,5
+Michael Dell;27;2001;Dell;USA;10,5
+David Thomson;27;2014;Thomson Corporation (now Thomson Reuters);CAN;22,6
+Fong Teng;28;1996;Sino Group;HKG;5,2
+Lui Che Woo;28;2014;K. Wah Group;HKG;22
+Robert and Ten Fong Ng;29;1996;Sino Group;HKG;5,2
+Silvio Berlusconi;29;2001;Fininvest;ITA;10,3
+Dieter Schwarz;29;2014;Schwarz Group;DEU;21,1
+Yasuo Takei;30;1996;Takefuji;JPN;5,2
+Abigail Johnson;30;2001;Fidelity Investments;USA;9,1
+Prince Alwaleed Bin Talal Alsaud;30;2014;Kingdom Holding Company;SAU;20,4
+Antonio Ermirio de Moraes;31;1996;Votorantim Group;BRA;5,1
+Forrest Mars Jr;31;2001;Mars, Incorperated;USA;9
+Jacqueline Mars;31;2001;Mars, Incorperated;USA;9
+John Mars;31;2001;Mars, Incorperated;USA;9
+Kirsten Rausing;31;2001;Tetra Pak;SWE;9
+Forrest Mars, Jr.;31;2014;Mars, Incorperated;USA;20
+Jacqueline Mars;31;2014;Mars, Incorperated;USA;20
+John Mars;31;2014;Mars, Incorperated;USA;20
+Eka Tjipta Widjaja;32;1996;Sinar Mas Group;IDN;5,1
+Liliane Bettencourt;33;1996;L'Oreal;FRA;5
+Merck family;34;1996;Merck;DEU;5
+Jorge Paulo Lemann;34;2014;Ambev;BRA;19,7
+Silvio Berlusconi;35;1996;Fininvest;ITA;5
+Charles Ergen;35;2001;dish networtk;USA;8,8
+Ted Turner;35;2001;CNN;USA;8,8
+Lee Shau Kee;35;2014;Henderson Land Development;HKG;19,6
+Mohamed Salim Bin Mahfouz;36;1996;National Comercial bank of Saudi Arabia;SAU;5
+Steve Ballmer;36;2014;Microsoft;USA;19,3
+Theo Albrecht, Jr.;36;2014;Aldi Nord;DEU;19,3
+Lee Kun-Hee;37;1996;Samsung;KOR;4,9
+Yasuo Takei;37;2001;Takefuji;JPN;8,3
+John Walton;38;1996;Walmart;USA;4,8
+Suliman Olayan;38;2001;General Contracting Company;SAU;8
+Leonardo Del Vecchio;38;2014;?Luxottica;ITA;19,2
+Jim Walton;39;1996;Walmart;USA;4,8
+Rupert Murdoch;39;2001;News Limited;USA;7,8
+Len Blavatnik;39;2014;Renova Group;USA;18,7
+Helen Walton;40;1996;Walmart;USA;4,7
+Hans Rausing;40;2001;Tetra Pak;SWE;7,7
+Nobutada Saji;40;2001;Suntory;JPN;7,7
+Alisher Usmanov;40;2014;Metalloinvest;RUS;18,6
+Mukesh Ambani;40;2014;Reliance;IND;18,6
+Alice Walton;41;1996;Walmart;USA;4,7
+S Robson Walton;42;1996;Walmart;USA;4,7
+Azim Premji;42;2001;Wipro Limited;IND;6,9
+Masayoshi Son;42;2014;Softbank;JPN;18,4
+Michael Otto;42;2014;Otto Group;DEU;18,4
+Phil Knight;42;2014;Nike;USA;18,4
+Henkel family;43;1996;Henkel AG;DEU;4,6
+Amancio Ortega;43;2001;Zara;ESP;6,6
+Leonardo Del Vecchio;43;2001;?Luxottica;ITA;6,6
+Masayoshi Son;44;1996;Softbank;JPN;4,6
+Friedrich Flick;45;1996;Friedrich Flick Industrial Holding;DEU;4,5
+Gerald Cavendish Grosvenor;45;2001;Grosvenor Group;GBR;6,5
+Tadashi Yanai;45;2014;Fast Retailing/Uniqlo;JPN;17,9
+Liem Sioe Liong;46;1996;Salim Group;IDN;4,5
+Kirk Kerkorian;46;2001;MGM Grand;USA;6,4
+Gina Rinehart;46;2014;Hancock Prospecting;AUS;17,7
+Pierre Landolt;47;1996;AxialPar;CHE;4,5
+Charles Schwab;47;2001;Charles Schwab Corporation;USA;6,3
+Francois Pinault;47;2001;Pinault-Printemps-Redoute (PPR), now known as Kering;FRA;6,3
+Mikhail Fridman;47;2014;Alfa Group;RUS;17,6
+Donald Newhouse;48;1996;Advance Publications;USA;4,5
+Michael Dell;48;2014;Dell;USA;17,5
+Samuel Newhouse;49;1996;Advance Publications;USA;4,5
+Pierre Landolt;49;2001;AxialPar;CHE;6,1
+Susanne Klatten;49;2014;BMW;DEU;17,4
+Dhanin Chearavanont;50;1996;Charoen Pokphand (CP Group);THA;4,2
+George Soros;50;2001;Soros Fund Management;USA;6
+Nasser Al-Kharafi;50;2001;Kharafi Group;KWT;6
+Abigail Johnson;50;2014;Fidelity Investments;USA;17,3
+Boehringer family;51;1996;Poehringer Ingelheim;DEU;4,1
+Viktor Vekselberg;51;2014;Renova Group;RUS;17,2
+David Sainsbury;52;1996;Sainsbury's;GBR;4,1
+Lee Shau Kee;52;2001;Henderson Land Development;HKG;5,9
+Lakshmi Mittal;52;2014;ArcelorMittal;IND;16,7
+Seydoux/Schlumberger families;53;1996;Schlumberger Well Services;FRA;4
+Eli Broad;53;2001;Kaufman and Broad, SunAmerica;USA;5,8
+Vladimir Lisin;53;2014;NLMK;RUS;16,6
+Masatoshi Ito;54;1996;Ito-Yokado;JPN;4
+James Goodnight;54;2001;SAS institute;USA;5,7
+Cheng Yu-tung;54;2014;Chow Tai Fook Enterprises;HKG;16,2
+Fukuzo Iwasaki;55;1996;Iwasaki Sangyo Group;JPN;4
+Kyosuke Kinoshita;55;2001;Acom;JPN;5,6
+Masayoshi Son;55;2001;Softbank;JPN;5,6
+Joseph Safra;55;2014;Banco Safra (now Saftra Group);BRA;16
+Mustafa Rahmi Koc;56;1996;Koc Holding;TUR;4
+Paul Allen;56;2014;Microsoft;USA;15,9
+Barbara Cox Anthony;57;1996;Cox Enterprises;USA;4
+Luciano Benetton;57;2001;Benetton Group;ITA;5,5
+Robert Pritzker;57;2001;Hyatt;USA;5,5
+Thomas Pritzker;57;2001;Hyatt;USA;5,5
+Leonid Mikhelson;57;2014;Novatek;RUS;15,6
+Anne Cox Chambers;58;1996;Cox Enterprises;USA;4
+Anne Cox Chambers;58;2014;Cox Enterprises;USA;15,5
+Francois Pinault;58;2014;Pinault-Printemps-Redoute (PPR), now known as Kering;FRA;15,5
+Iris Fontbona;58;2014;Antofagasta PLC;CHL;15,5
+Ronald Perelman;59;1996;MacAnderws and Forbes Holdings;USA;4
+Akira Mori;60;1996;Mori Building;JPN;3,9
+Curt Engelhorn;60;2001;BASF/Boehringer Mannheim/DePuy;DEU;5,4
+Gordon Moore;60;2001;Intel ;USA;5,4
+Hasso Plattner;60;2001;SAP AG;DEU;5,4
+Paul-Louis Halley;60;2001;Promodes;FRA;5,4
+Otto Beisheim;61;1996;Metro AG;DEU;3,8
+Azim Premji;61;2014;Wipro Limited;IND;15,3
+Gennady Timchenko;61;2014;Gunvor Group;RUS;15,3
+Mohammad Al Amoudi;61;2014;MIDROC;SAU;15,3
+Madeleine Schickedanz;62;1996;Quelle Versand;DEU;3,8
+Brenninkmeijer family;63;1996;C&A;NLD;3,8
+Gordon Moore;64;1996;Intel ;USA;3,7
+Friedrich Flick;64;2001;Friedrich Flick Industrial Holding;DEU;5,3
+Gustavo Cisneros;64;2001;Cisneros Group;VEN;5,3
+Stefan Persson;64;2001; H&M;SWE;5,3
+Walter Haefner;64;2001;Automation Center;CHE;5,3
+Wang Jianlin;64;2014;Dalian Wanda Group;CHN;15,1
+Walter Annenberg;65;1996;Philadelphia Inquirer;USA;3,7
+Charles Ergen;65;2014;dish networtk;USA;15
+Steven Ballmer;66;1996;Microsoft;USA;3,7
+Stefan Quandt;66;2014;BMW;DEU;14,9
+Gregorio Perez Companc;67;1996;Petrolera Perez Companc;ARG;3,6
+German Larrea Mota Velasco;67;2014;Grupo Mexio;MEX;14,7
+Curt Engelhorn;68;1996;BASF/Boehringer Mannheim/DePuy;DEU;3,6
+Yoshitaka Fukuda;68;2001;Aiful;JPN;5,2
+Harold Hamm;68;2014;Continental Resources;USA;14,6
+Shin Kyuk-Ho;69;1996;;KOR;3,6
+Alfred Lerner;69;2001;MBNA;USA;5,1
+Donald Bren;69;2014;Irvine Company;USA;14,4
+Ray Dalio;69;2014;Bridgewater Associates;USA;14,4
+James Arthur and John Irving;70;1996;J.D. Irving;CAN;3,5
+Alain Wertheimer;70;2001;Chanel;FRA;5
+August von Finck;70;2001;Allianz, Merk Finck & Co;DEU;5
+Donald Newhouse;70;2001;Advance Publications;USA;5
+Michael Otto;70;2001;Metro AG;DEU;5
+Samuel Newhouse;70;2001;Advance Publications;USA;5
+Philip Niarchos;71;1996;Niarchos Ltd;GRC;3,5
+Georg Schaeffler;71;2014;Schaeffler Group;DEU;14,3
+Wang Yue-che;72;1996;Formosa Plastics;Taiwan;3,5
+Luis Carlos Sarmiento;72;2014;Grupo Aval Acciones y Valores, SA;COL;14,2
+Sakip Sabanci;73;1996;Sabanci Holdings;TUR;3,5
+Laurene Powell Jobs;73;2014;Apple;USA;14
+Ronald Perelman;73;2014;MacAnderws and Forbes Holdings;USA;14
+Serge Dassault;73;2014;Dassault Group;FRA;14
+Erivan Haub;74;1996;Tenglemann Group;DEU;3,4
+Tiong Hiew King;75;1996;Rimbunan Hijau Group;MYS;3,4
+Serge Dassault;75;2001;Dassault Group;FRA;4,9
+Kirk Kerkorian;76;1996;MGM Grand;USA;3,4
+Gunter Herz;76;2001;Maxingvest AG;DEU;4,8
+Tadashi Yanai;76;2001;Fast Retailing/Uniqlo;JPN;4,8
+John Fredriksen;76;2014;Frontline Ltd.;CYP;13,6
+Vagit Alekperov;76;2014;Lukoil;RUS;13,6
+Sumner Redstone;77;1996;National Amusements;USA;3,4
+Denis Defforey;78;1996;Carrefour;FRA;3,3
+Rolf Gerling;78;2001;Gerling Konzern;DEU;4,7
+John Paulson;78;2014;Paulson & Co.;USA;13,5
+Rupert Murdoch;78;2014;News Limited;USA;13,5
+Rolf Gerling;79;1996;Gerling Konzern;DEU;3,3
+Dieter von Holtzbrinck;79;2001;Holtzbrinck;DEU;4,6
+Edward Johnson;79;2001;Fidelity Investments;USA;4,6
+Spiro Latsis;79;2001;EFG International;GRC;4,6
+Nina Wang;80;1996;Chinachem Group;HKG;3,3
+Ma Huateng;80;2014;Tencent;CHN;13,4
+Quek Leng Chan;81;1996;Hong Leong Financial Group;MYS;3,3
+Gerald Cavendish Grosvenor;81;2014;Grosvenor Group;GBR;13
+Garry Weston;82;1996;George Weston Limited;GBR;3,3
+Lorenzo Mendoza;82;2001;Empresas Polar;VEN;4,5
+Marvin Davis;82;2001;Davis Petroleum;USA;4,5
+Masatoshi Ito;82;2001;Ito-Yokado;JPN;4,5
+Michael Bloomberg;82;2001;Bloomberg;USA;4,5
+Nicky Oppenheimer;82;2001;De Beers;ZAF;4,5
+Pierre Omidyar;82;2001;Ebay;USA;4,5
+Reinhard Mohn;82;2001;Bertelsmann;DEU;4,5
+Samuel Johnson;82;2001;S. C. Johnson & Son;USA;4,5
+Dilip Shanghvi;82;2014;Sun Pharmaceutical Industries;IND;12,8
+Jack Taylor;82;2014;Enterprise;USA;12,8
+Johanna Quandt;82;2014;BMW;DEU;12,8
+Pallonji Mistry;82;2014;?Shapoorji Pallonji Group;IRL;12,8
+Henry Ross Perot Sr;83;1996;Electronic Data Systems;USA;3,3
+Keizo Saji;84;1996;Suntory;JPN;3,2
+Rupert Murdoch;85;1996;News Limited;USA;3,2
+Richard DeVos;86;1996;Amway;USA;3,2
+Thomas and Raymond Kwok;86;2014;Sun Hung Kai Properties;HKG;12,6
+Vladimir Potanin;86;2014;Interros;RUS;12,6
+Jay Van Andel;87;1996;Amway;USA;3,2
+August von Finck;88;1996;Allianz, Merk Finck & Co;DEU;3,1
+James Simons;88;2014;Renaissance Technologies;USA;12,5
+Rinat Akhmetov;88;2014;System Capital Management Group;UKR;12,5
+Michael and Rainer Schmidt-Ruthenbeck;89;1996;Metro AG;DEU;3,1
+Stanley Ho;90;1996;Sociedade de Turismo e Divers?es de Macau;HKG;3,1
+James Arthur and John Irving;90;2001;J.D. Irving;CAN;4,4
+Rudolf Oetker;90;2001;Oetker-Gruppe;DEU;4,4
+Alberto Bailleres Gonzalez;90;2014;Penoles;MEX;12,4
+Kyosuke Kinoshita;91;1996;Acom;JPN;3,1
+Robin Li;91;2014;Baidu;CHN;12,1
+Chatri Sophonpanich;92;1996;Bangkok Bank;THA;3,1
+Lee Bass;92;2001;Sid Richardson Gasoline Co;USA;4,3
+Maurice Greenberg;92;2001;AIG;USA;4,3
+Philip Knight;92;2001;Nike;USA;4,3
+Ernesto Bertarelli;92;2014;Serono;CHE;12
+Hans Rausing;92;2014;Tetra Pak;SWE;12
+Peter Haas Sr;93;1996;Levi Strauss & co;USA;3,1
+Lemos family;94;1996;Efploia Shipping;GRC;3
+Zong Qinghou;94;2014;Hangzhou Wahaha Group;CHN;11,6
+Jassim Al-Kharafi;95;1996;Kharafi Group;KWT;3
+Fukuzo Iwasaki;95;2001;Iwasaki Sangyo Group;JPN;4,2
+David & Simon Reuben;95;2014;Trans-World Metals;GBR;11,5
+Robert Kuok;95;2014;Shangri-La Hotels;MYS;11,5
+Suliman Olayan;96;1996;General Contracting Company;SAU;3
+Micky Arison;96;2001;Carnival Corporation;USA;4,1
+Patrick Wang;96;2001;Johnson Electric;HKG;4,1
+Khoo Teck Puat;97;1996;Malayan Banking;SGP;3
+Andrey Melnichenko;97;2014;MDM Bank;RUS;11,4
+Dhanin Chearavanont;97;2014;Charoen Pokphand (CP Group);THA;11,4
+Henry Sy;97;2014;SM Malls;PHL;11,4
+John Mars;98;1996;Mars, Incorperated;USA;3
+Alfred Heineken;98;2001;Heineken International;NLD;4
+Donald Bren;98;2001;Irvine Company;USA;4
+Erivan Haub;98;2001;Tenglemann Group;DEU;4
+Galen Weston;98;2001;George Weston Limited;CAN;4
+Ty Warner;98;2001;Ty Inc.;USA;4
+Walter Annenberg;98;2001;Philadelphia Inquirer;USA;4
+Jacqueline Mars;99;1996;Mars, Incorperated;USA;3
+Jay and Arthur Pritzker;100;1996;Hyatt;USA;3
+Ananda Krishnan;100;2014;Usaha Tegas Sdn Bhd;MYS;11,3
+German Khan;100;2014;Alfa Group;RUS;11,3
+Robert Pritzker;101;1996;Hyatt;USA;3
+Forrest Mars Sr;102;1996;Mars, Incorperated;USA;3
+Alejandro Santo Domingo Davila;102;2014;Santo Domingo Group;COL;11,1
+Lee Kun-Hee;102;2014;Samsung;KOR;11,1
+Miuccia Prada;102;2014;Prada;ITA;11,1
+Shiv Nadar;102;2014;HCL;IND;11,1
+Forrest Mars Jr;103;1996;Mars, Incorperated;USA;3
+Rudolf Oetker;104;1996;Oetker-Gruppe;DEU;2,9
+Henry Ross Perot Sr;104;2001;Electronic Data Systems;USA;3,8
+Jon Huntsman;104;2001;Huntsman chemical;USA;3,8
+Leonard Lauder;104;2001;Est?Lauder;USA;3,8
+Sid Bass;104;2001;Sid Richardson Gasoline Co;USA;3,8
+Tsai Wan-lin;104;2001;Lin Yuan Group;Taiwan;3,8
+Koo Cha-kyung;105;1996;LG Group;KOR;2,9
+William Hewlett;106;1996;Hewlett-Packard;USA;2,9
+Petr Kellner;106;2014;PPF (Prvn? privatizacn? fond);CZE;11
+Robert & Philip Ng;106;2014;Sino Group;SGP;11
+Steve Cohen;106;2014;SAC Capital Advisors;USA;11
+Karl-Heinz Kipp;107;1996;Massa;DEU;2,8
+Putera Sampoerna;108;1996;Sampoerna;IDN;2,8
+Gianni Agnelli;109;1996;Fiat;ITA;2,8
+Carl Icahn;109;2001;Icahn Enterprises;USA;3,7
+Mehmet Karamehmet;109;2001;Cukurova Holding;TUR;3,7
+Nina Wang;109;2001;Chinachem Group;HKG;3,7
+Robert Kuok;109;2001;Shangri-La Hotels;MYS;3,7
+Sanjiv Sidhu;109;2001;i2 Technologies;USA;3,7
+Shari Arison;109;2001;Carnival Corporation;ISR;3,7
+Andrew Beal;109;2014;Beal Bank;USA;10,9
+Mikhail Prokhorov;109;2014;Norilsk Nickel;RUS;10,9
+Chey Jong-hyon;110;1996;SK Group;KOR;2,8
+Jean-Louis Dumas;111;1996;Hermes;FRA;2,7
+Alexei Mordashov;111;2014;Severstal;RUS;10,5
+Hansjoerg Wyss;111;2014;Synthes USA;CHE;10,5
+Dietmar Hopp;112;1996;SAP AG;DEU;2,7
+Gunter Herz;113;1996;Maxingvest AG;DEU;2,7
+Charlene de Carvalho-Heineken;113;2014;Heineken International;NLD;10,4
+Klaus-Michael Kuehne;113;2014;Kuhne + Nagel;DEU;10,4
+Philip Anschutz;113;2014;Circle A Drilling;USA;10,4
+Stefano Pessina;113;2014;Alliance Boots;ITA;10,4
+Lim Goh Tong;114;1996;Genting Highlands;MYS;2,7
+Eugene Wu;115;1996;Shin Kong Financial;Taiwan;2,7
+John Simplot;115;2001;J.R. Simplot Company;USA;3,6
+Edgar Bronfman;116;1996;Seagrams;USA;2,7
+Antonio Ermirio de Moraes;116;2001;Votorantim Group;BRA;3,5
+Craig McCaw;116;2001;McCaw Cellular;USA;3,5
+Kazuo Okada;116;2001;Wynn Resorts;JPN;3,5
+Ng Teng Fong;116;2001;Far East Organization;SGP;3,5
+Nicolas Hayek;116;2001;Swatch Group;CHE;3,5
+Reinhold Wuerth;116;2001;Adolf Wurth Group;DEU;3,5
+Sakip Sabanci;116;2001;Sabanci Holdings;TUR;3,5
+Stephan Schmidheiny;116;2001;Holcim;CHE;3,5
+Charles Bronfman;117;1996;Seagrams;CAN;2,6
+Li Hejun;117;2014;Hanergy Solar;CHN;10,3
+Sergei Galitsky;117;2014;Magnit;RUS;10,3
+Leo Kirch;118;1996;Kirch Group;DEU;2,6
+Von Siemens family;119;1996;Siemens;DEU;2,6
+Kjeld Kirk Kristiansen;119;2014;Lego;DEN;10,2
+Marcel Herrmann Telles;119;2014;Ambev;BRA;10,2
+John Latsis;120;1996;EFG International;GRC;2,6
+Yaw Teck-seng;121;1996;Samling Strategic Corp;MYS;2,6
+Charles Butt;121;2014;H-E-B supermarket;USA;10,1
+Alfred Heineken;122;1996;Heineken International;NLD;2,6
+Carrie Perrodo;122;2014;Perenco;FRA;10
+David Tepper;122;2014;Appaloosa Management;USA;10
+George Kaiser;122;2014;Kaiser-Francis Oil Company;USA;10
+Hinduja Brothers;122;2014;Hinduja Group;GBR;10
+Jack Ma;122;2014;Alibaba group;CHN;10
+Patrick Soon-Shiong;122;2014;American Pharmaceutical Partners ;USA;10
+Stephen Schwarzman;122;2014;Blackstone Group;USA;10
+Jaime Augusto Zobel de Ayala;123;1996;Ayala Corporation;PHL;2,6
+George Ty;124;1996;Metropolitan Bank and Trust Company;PHL;2,6
+Ann Kroenke;124;2001;Walmart;USA;3,4
+Charles Bronfman;124;2001;Seagrams;CAN;3,4
+David Geffen;124;2001;Asylum Records/Geffen Records/Dreamworks;USA;3,4
+Dhirubhai Ambani;124;2001;Reliance;IND;3,4
+Gerard Louis-Dreyfus;124;2001;Louis Dreyfus Group;FRA;3,4
+James Sorenson;124;2001;Sorenson Companies;USA;3,4
+Samuel Johnson;125;1996;S. C. Johnson & Son;USA;2,6
+Henry Hillman;126;1996;Pittsburgh Coke & Chemical;USA;2,6
+Julio Bozano;127;1996;Banco Bozano Simonsen;BRA;2,5
+Porsche family;128;1996;Porsche;DEU;2,5
+Peter Livanos;129;1996;Ceres Hellenic;GRC;2,5
+Giorgio Armani;129;2014;Armani;ITA;9,9
+Michael Kadoorie;130;1996;CLP Holdings;HKG;2,5
+Akira Mori;130;2001;Mori Building;JPN;3,3
+Amos Hosetter Jr;130;2001;Continental Cablevision;USA;3,3
+Bernard Marcus;130;2001;Home Depot;USA;3,3
+Edgar Bronfman;130;2001;Seagrams;USA;3,3
+Eitaro Itoyama;130;2001;;JPN;3,3
+Martin Ebner;130;2001;BZ Bank;CHE;3,3
+Ronald Perelman;130;2001;MacAnderws and Forbes Holdings;USA;3,3
+Ryoichi Jinnai;130;2001;Promise Consumer Finance;JPN;3,3
+Richard Kinder;130;2014;Kinder Morgan Energy Partners;USA;9,5
+Tsai Eng-Meng;130;2014;Want Want China;Taiwan;9,5
+Henry Fok;131;1996;Sociedade de Turismo e Divers?es de Macau;HKG;2,5
+Goroemon Yoshimoto;132;1996;;JPN;2,5
+Edward Johnson, III.;132;2014;Fidelity Investments;USA;9,3
+Eric Schmidt;132;2014;google;USA;9,3
+Hiroshi Mikitani;132;2014;Rakuten;JPN;9,3
+Samuel Newhouse, Jr.;132;2014;Advance Publications;USA;9,3
+Rinji Shino;133;1996;Meiko Group;JPN;2,5
+Yasuyuki Nambu;134;1996;Pasona Inc;JPN;2,5
+Rafik Al-Hariri;135;1996;Saudi Oger;LBN;2,5
+Alejo Peralta;136;1996;Groupo IUSA;MEX;2,5
+Dietrich Mateschitz;136;2014;Red Bull;AUT;9,2
+John van Vlissingen;137;1996;BCD Holdings;NLD;2,5
+Joao Roberto Marinho;137;2014;Globo Organizations;BRA;9,1
+Jose Roberto Marinho;137;2014;Globo Organizations;BRA;9,1
+Roberto Marinho;137;2014;Globo Organizations;BRA;9,1
+Roman Abramovich;137;2014;Millhouse LLC;RUS;9,1
+Sheikh Saleh Bin Abdul Aziz Al-rajhi;138;1996;Al Rajhi bank;SAU;2,5
+Charles Koch;138;2001;Koch industries;USA;3,2
+David Koch;138;2001;Koch industries;USA;3,2
+Donald Fisher;138;2001;The Gap;USA;3,2
+Doris Fisher;138;2001;The Gap;USA;3,2
+Karl-Heinz Kipp;138;2001;Massa;DEU;3,2
+Philippe Foriel-Destezet;138;2001;Adecco;FRA;3,2
+Preston Tisch;138;2001;Loews Corporation;USA;3,2
+Ronald Lauder;138;2001;Est?Lauder;USA;3,2
+Mohammed Jameel;139;1996;Abdul Latif Jameel Co. Ltd;SAU;2,5
+Maersk McKinney Moller;140;1996;Maersk Group;DNK;2,5
+Nicky Oppenheimer;141;1996;De Beers;ZAF;2,5
+Alain Wertheimer;141;2014;Chanel;FRA;9
+Charoen Sirivadhanabhakdi;141;2014;ThaiBev;THA;9
+Gerard Wertheimer;141;2014;Chanel;FRA;9
+Silvio Berlusconi;141;2014;Fininvest;ITA;9
+Vladimir Yevtushenkov;141;2014;Sistema/Sitronics;RUS;9
+Ernesto Bertarelli;142;1996;Serono;CHE;2,5
+Banyong Lamsam;143;1996;Kasikornbank;THA;2,5
+George Soros;144;1996;Soros Fund Management;USA;2,5
+Abigail Johnson;145;1996;Fidelity Investments;USA;2,5
+Jon Huntsman;146;1996;Huntsman chemical;USA;2,5
+Ennio Doris;146;2001;Mediolanum SpA;ITA;3,1
+Gianni Agnelli;146;2001;Fiat;ITA;3,1
+Lester Crown;146;2001;General Dynamics;USA;3,1
+Rafik Al-Hariri;146;2001;Saudi Oger;LBN;3,1
+William Wrigley;146;2001;Wm Wrigley Jr. Company;USA;3,1
+Carlos Alberto Sicupira;146;2014;Ambev;BRA;8,9
+Hisakazu Yamaguchi;147;1996;Daiwan Can;JPN;2,4
+Alexei Kuzmichev;147;2014;Alfa Group;RUS;8,8
+Dmitry Rybolovlev;147;2014;Uralkali;RUS;8,8
+Elaine Marshall;147;2014;Koch industries;USA;8,8
+Hasso Plattner;147;2014;SAP AG;DEU;8,8
+Thomas Peterffy;147;2014;Interactive Brokers;USA;8,8
+Kanichiro Ishibashi;148;1996;Bridgestone Corp;JPN;2,4
+Andrew Gotianun;149;1996;Filinvest Development Corporation;PHL;2,4
+Anacleto Angelini;150;1996;Angelini Group;CHL;2,3
+Dieter Schwarz;151;1996;Schwarz Group;DEU;2,3
+A Jerrold Perenchio;151;2001;Univision;USA;3
+Emilio Azcarraga Jean;151;2001;Grupo Televisa;MEX;3
+George Lucas;151;2001;Lucasfilm;USA;3
+Henry Hillman;151;2001;Pittsburgh Coke & Chemical;USA;3
+Khoo Teck Puat;151;2001;Malayan Banking;SGP;3
+Mohammed Jameel;151;2001;Abdul Latif Jameel Co. Ltd;SAU;3
+Ricardo Salinas Pliego;151;2001;Grupo Salinas/Group Elektra;MEX;3
+Riley Bechtel;151;2001;Bechtel Corporation;USA;3
+Robert Bass;151;2001;Sid Richardson Gasoline Co;USA;3
+Saleh Kamel;151;2001;Dallah al Baraka Group;SAU;3
+Stephen Bechtel;151;2001;Bechtel Corporation;USA;3
+Ciputra;152;1996;Ciputra Development;IDN;2,3
+Ludwig Merckle;152;2014;Ratiopharm;DEU;8,6
+Leonardo Del Vecchio;153;1996;?Luxottica;ITA;2,3
+Antonia Johnson;153;2014;Axel Johnson Group;SWE;8,5
+Donald Newhouse;153;2014;Advance Publications;USA;8,5
+Galen Weston;153;2014;George Weston Limited;CAN;8,5
+Hank & Doug Meijer;153;2014;Meijer;USA;8,5
+Michael Kadoorie;153;2014;CLP Holdings;HKG;8,5
+Michele Ferrero;154;1996;Ferrero spa;ITA;2,3
+Eitaro Itoyama;155;1996;;JPN;2,3
+Akio Morita;156;1996;Sony;JPN;2,3
+Kim Woo-choong;157;1996;Daewoo Group;KOR;2,3
+Kjeld Kirk Kristiansen;158;1996;Lego;DNK;2,3
+Elon Musk;158;2014;Paypal, SpaceX, Tesla Motors;USA;8,4
+Joseph Lau;158;2014;Chinese Estates Holdings;HKG;8,4
+Stephan Schmidheiny;159;1996;Holcim;CHE;2,3
+Robert Bass;160;1996;Sid Richardson Gasoline Co;USA;2,3
+August von Finck;160;2014;Allianz, Merk Finck & Co;DEU;8,3
+Ricardo Salinas Pliego;160;2014;Grupo Salinas/Group Elektra;MEX;8,3
+Andronico Luksic;161;1996;Antofagasta;CHL;2,2
+Adrian and John Swire;162;1996;Swire;HKG;2,2
+Dietmar Hopp;162;2001;SAP AG;DEU;2,9
+Hiroshi Yamauchi;162;2001;Nintendo;JPN;2,9
+Joseph and Moise Safra;162;2001;Banco Safra (now Saftra Group);BRA;2,9
+Leslie Wexner;162;2001;Limited Brands;USA;2,9
+Lorenzo Zambrano;162;2001;Cemex;MEX;2,9
+Andrei Skoch;162;2014;Metallionvest;RUS;8,2
+Pierre Omidyar;162;2014;Ebay;USA;8,2
+Xavier Niel;162;2014;Iliad;FRA;8,2
+Prajogo Pangestu;163;1996;Barito Pacific;IDN;2,2
+Akihiko Otsuka;164;1996;Otsuka Holdings;JPN;2,2
+Kazuo Matsuda;165;1996;Nichiei;JPN;2,2
+Margarita Louis-Dreyfus;165;2014;Louis-Dreyfus Goup;CHE;8,1
+Lucio Tan;166;1996;Asia Brewery;PHL;2,2
+Pierre Castel;166;2014;Goupe Castel;FRA;8
+Philip Anschutz;167;1996;Circle A Drilling;USA;2,2
+Aloysio de Andrade Faria;167;2001;Banco Real;BRA;2,8
+Charles Dolan;167;2001;Cablevision and HBO;USA;2,8
+Jack Taylor;167;2001;Enterprise;USA;2,8
+John Sall;167;2001;SAS institute;USA;2,8
+Klaus Jacobs;167;2001;Jacobs Suchard AG;CHE;2,8
+Steven Udvar-Hazy;167;2001;International Lease Finance Corporation;USA;2,8
+Yoshiaki Tsutsumi;167;2001;Seibu Corporation;JPN;2,8
+Emmanuel Besnier;167;2014;Lactalis;FRA;7,9
+Marvin Davis;168;1996;Davis Petroleum;USA;2,2
+Blair Parry-Okeden;168;2014;Cox Enterprises;USA;7,7
+David Duffield;168;2014;PeopleSoft;USA;7,7
+Jean-Claude Decaux;168;2014;JCDecaux;FRA;7,7
+Jim Kennedy;168;2014;Cox Enterprises;USA;7,7
+Reinhold Wuerth;168;2014;Adolf Wurth Group;DEU;7,7
+Lee Bass;169;1996;Sid Richardson Gasoline Co;USA;2,2
+Roberto Marinho;170;1996;Globo Organizations;BRA;2,1
+Philippe Bouriez;171;1996;Cora;FRA;2,1
+Stefan Schoerghuber;172;1996;Schorghuber Group;DEU;2,1
+Anneliese Brost;173;1996;Westdeutsche Allgemeine Zeitung;DEU;2,1
+Jacques Servier;173;2014;Laboratories Servier;FRA;7,6
+Johann Rupert;173;2014;Rembrandt Group;ZAF;7,6
+R Budi Hartono;173;2014;Djarum;IDN;7,6
+Tsai Wan-Tsai;173;2014;Fubon Financial holding Company;Taiwan;7,6
+Funke family;174;1996;;DEU;2,1
+Bruno Schroder;174;2001;Schroders;GBR;2,7
+Cheng Yu-tung;174;2001;Chow Tai Fook Enterprises;HKG;2,7
+Jeffrey Skoll;174;2001;Ebay;CAN;2,7
+Samuel LeFrak;174;2001;LeFrack ;USA;2,7
+Wang Yue-che;174;2001;Formosa Plastics;Taiwan;2,7
+Kumar Birla;175;1996;Aditya Birla Group;IND;2,1
+Masahiro Ohga;176;1996;;JPN;2,1
+Ryoichi Jinnai;177;1996;Promise Consumer Finance;JPN;2,1
+Charles Johnson;177;2014;Franklin Resources;USA;7,5
+James Goodnight;177;2014;SAS institute;USA;7,5
+John Malone;177;2014;Tele-Communications Inc;USA;7,5
+John Menard, Jr.;177;2014;Menards;USA;7,5
+Klaus Tschira;177;2014;SAP AG;DEU;7,5
+Leonard Lauder;177;2014;Est?Lauder;USA;7,5
+Lee Seng Wee;178;1996;Oversea-Chinese Banking Corporation;SGP;2,1
+Jeffrey Koo Sr;179;1996;Koos Group;Taiwan;2,1
+Den Fujita;179;2001;McDonald's Japan;JPN;2,6
+Klaus Tschira;179;2001;SAP AG;DEU;2,6
+Thomas Schmidheiny;179;2001;Holcim;CHE;2,6
+Thaksin Shinawatra;180;1996;Advanced Info Service;THA;2,1
+Leonard Lauder;181;1996;Est?Lauder;USA;2,1
+Ronald Lauder;182;1996;Est?Lauder;USA;2,1
+Alan Gerry;182;2001;Cablevision Industries;USA;2,5
+Bernard Ecclestone;182;2001;Formula One Group;GBR;2,5
+David Rockefeller;182;2001;Standard Oil;USA;2,5
+Eugenio Garza Lagnera;182;2001;Femsa;MEX;2,5
+Joan Kroc;182;2001;McDonald's;USA;2,5
+John Malone;182;2001;Tele-Communications Inc;USA;2,5
+Kerry Packer;182;2001;Consolidated Press Holdings Limited;AUS;2,5
+Michael and Rainer Schmidt-Ruthenbeck;182;2001;Metro AG;DEU;2,5
+Mustafa Rahmi Koc;182;2001;Koc Holding;TUR;2,5
+Otto Beisheim;182;2001;Metro AG;DEU;2,5
+Robert Rowling;182;2001;Tana Exploration Company;USA;2,5
+Takemitsu Takizaki;182;2001;Keyence;JPN;2,5
+Ted Turner;183;1996;CNN;USA;2,1
+Vincent Bollore;183;2014;Bollore;FRA;7,4
+Michel Fribourg;184;1996;Continental Grain Company;USA;2,1
+Jim Pattison;184;2014;Jim Pattison Group;CAN;7,3
+Michael Hartono;184;2014;Djarum;IDN;7,3
+Roberto Rocca;185;1996;Techint;ARG;2
+Dirce Navarro Camargo;186;1996;Camargo Correa Group;BRA;2
+Augusto & Giorgio Perfetti;186;2014;Perfetti Van Melle;ITA;7,2
+Heinz Hermann Thiele;186;2014;Knorr-Bremse AG;DEU;7,2
+Johann Graf;186;2014;Novomatic Automatenhandels AG;AUT;7,2
+Peter Woo;186;2014;Worldwide Shipping Group;HKG;7,2
+Alain Wertheimer;187;1996;Chanel;FRA;2
+Jacques Servier;188;1996;Laboratories Servier;FRA;2
+Verspieren family;189;1996;Verspieren;FRA;2
+Alfred von Oppenheim;190;1996;?Sal. Oppenheim;DEU;2
+He Xiangjian;190;2014;Midea;CHN;7,1
+Peter Woo;191;1996;Worldwide Shipping Group;HKG;2
+Dietmar Hopp;191;2014;SAP AG;DEU;7
+Eyal Ofer;191;2014;Zodiac Maritime Agencies;ISR;7
+Graeme Hart;191;2014;Rank Group;NZL;7
+Kumar Birla;191;2014;Aditya Birla Group;IND;7
+Ralph Lauren;191;2014;Ralph Lauren;USA;7
+Djuhar Sutanto;192;1996;Salim Group;IDN;2
+Theodore Arison;193;1996;Carnival Corporation;ISR;2
+Luciano Benetton;194;1996;Benetton Group;ITA;2
+Henry Nicholas;194;2001;Broadcom Corporation;USA;2,4
+Laurence Tisch;194;2001;Loews Corporation;USA;2,4
+Leonard Stern;194;2001;Hartz Group;USA;2,4
+Mikhail Khodorkovsky;194;2001;Yukos;RUS;2,4
+Emilio Azcarraga Jean;195;1996;Grupo Televisa;MEX;2
+John Gokongwei;196;1996;JG Summit Holdings;PHL;2
+Charles Cadogan;196;2014;Cadogan Estates;GBR;6,9
+Eli Broad;196;2014;Kaufman and Broad, SunAmerica;USA;6,9
+Richard DeVos;196;2014;Amway;USA;6,9
+Suleiman Kerimov;196;2014;Gazprom;RUS;6,9
+Wei Jianjun;196;2014;Great Wall Motors;CHN;6,9
+Yang Huiyan;196;2014;Country Garden Holdings;CHN;6,9
+Henry Sy;197;1996;SM Malls;PHL;2
+Manuel Villar;198;1996;C&P Homes;PHL;2
+George Kaiser;198;2001;Kaiser-Francis Oil Company;USA;2,3
+Gordon Getty;198;2001;Getty ;USA;2,3
+Henry Samueli;198;2001;Broadcom Corporation;USA;2,3
+Martin Bouygues;198;2001;Bouygues S.A.;FRA;2,3
+Ralph Lauren;198;2001;Ralph Lauren;USA;2,3
+Ray Hunt;198;2001;Hunt Oil. Co;USA;2,3
+Richard Schulze;198;2001;Best Buy;USA;2,3
+Robert Bosch Jr;198;2001;Robert Bosch GmbH;DEU;2,3
+Susan Thompson Buffett;198;2001;Berkshire Hathaway;USA;2,3
+Terry Gou;198;2001;Foxconn;Taiwan;2,3
+William Davidson;198;2001;Guardian Industries;USA;2,3
+Emilio Botin;199;1996;Grupo Santander;ESP;2
+Thomas Schmidheiny;200;1996;Holcim;CHE;2
+George Lucas;201;1996;Lucasfilm;USA;2
+Charles Koch;202;1996;Koch industries;USA;2
+Chung Mong-Koo;202;2014;Hyundai;KOR;6,8
+Dustin Moskovitz;202;2014;Facebook;USA;6,8
+Jan Koum;202;2014;WhatsApp;USA;6,8
+David Koch;203;1996;Koch industries;USA;2
+Lester Crown;204;1996;General Dynamics;USA;2
+Donald Bren;205;1996;Irvine Company;USA;2
+Nassef Sawiris;205;2014;Orascom;FIN;6,7
+Nicky Oppenheimer;205;2014;De Beers;ZAF;6,7
+Martha Ingram;206;1996;Ingram Industries;USA;2
+James Goodnight;207;1996;SAS institute;USA;2
+Takemitsu Takizaki;207;2014;Keyence;JPN;6,6
+Ray Hunt;208;1996;Hunt Oil. Co;USA;2
+James Packer;208;2014;Consolidated Press Holdings Limited;AUS;6,5
+Leonid Fedun;208;2014;Lukoil;RUS;6,5
+Micky Arison;208;2014;Carnival Corporation;USA;6,5
+Oleg Deripaska;208;2014;SibAl;RUS;6,5
+Laurence Tisch;209;1996;Loews Corporation;USA;2
+Barbara Piasecka Johnson;209;2001;Johnson & Johnson;USA;2,2
+Bernard Sherman;209;2001;Empire Laboratories;CAN;2,2
+David Duffield;209;2001;PeopleSoft;USA;2,2
+Frank Lowy;209;2001;Westfield Group;AUS;2,2
+H Wayne Huizenga;209;2001;Waste Management;USA;2,2
+James Kim;209;2001;Amkor;USA;2,2
+Jean-Claude Decaux;209;2001;JCDecaux;FRA;2,2
+Maersk McKinney Moller;209;2001;Maersk Group;DNK;2,2
+Martha Ingram;209;2001;Ingram Industries;USA;2,2
+Nancy Walton Laurie;209;2001;Walmart;USA;2,2
+Shiv Nadar;209;2001;HCL;IND;2,2
+Tadahiro Yoshida;209;2001;YKK;JPN;2,2
+Thomas Siebel;209;2001;Siebel Systems;USA;2,2
+Preston Tisch;210;1996;Loews Corporation;USA;2
+Shoji Uehara;211;1996;Taisho Pharmaceutical;JPN;1,9
+Chaijudh Karnasuta;212;1996;Italian-Thai development;THA;1,9
+Eva Gonda Rivera;212;2014;FEMSA;MEX;6,4
+Pansy Ho;212;2014;Sociedade de Turismo e Divers?es de Macau;HKG;6,4
+Quek Leng Chan;212;2014;Hong Leong Financial Group;MYS;6,4
+Sid Bass;213;1996;Sid Richardson Gasoline Co;USA;1,9
+Mary Alice Dorrance Malone;214;1996;Campbell Soup;USA;1,9
+David Geffen;215;1996;Asylum Records/Geffen Records/Dreamworks;USA;1,9
+Dannine Avara;215;2014;Enterprise Products;USA;6,3
+Herbert Kohler, Jr.;215;2014;Kohler Company;USA;6,3
+Ivan Glasenberg;215;2014;Glencore Xstrata;AUS;6,3
+Milane Frantz;215;2014;Enterprise Products;USA;6,3
+Paolo & Gianfelice Mario Rocca;215;2014;Techint;ITA;6,3
+Patrick Drahi;215;2014;Altice;FRA;6,3
+Randa Williams;215;2014;Enterprise Products;USA;6,3
+Scott Duncan;215;2014;Enterprise Products;USA;6,3
+William Wrigley;216;1996;Wm Wrigley Jr. Company;USA;1,9
+John Simplot;217;1996;J.R. Simplot Company;USA;1,9
+Kerry Packer;218;1996;Consolidated Press Holdings Limited;AUS;1,8
+Hasso Plattner;219;1996;SAP AG;DEU;1,8
+Hugo Mann;220;1996;Mann Mobilia;DEU;1,8
+Lee Hon Chiu;221;1996;Hysan Development;HKG;1,8
+Lorenzo Rossi di Montelera;222;1996;Martini & Rossi;ITA;1,8
+Abdullah Al Rajhi;222;2001;Al Rajhi bank;SAU;2,1
+Achille Maramotti;222;2001;MaxMara;ITA;2,1
+Adolf Merckle;222;2001;Ratiopharm;DEU;2,1
+Adrian Swire;222;2001;Swire;GBR;2,1
+Charles Johnson;222;2001;Franklin Resources;USA;2,1
+Edmund Wattis Littlefield;222;2001;Utah Contstruction Company;USA;2,1
+Ernest Stempel;222;2001;AIG;BMU;2,1
+John Dorrance;222;2001;Campbell Soup;IRL;2,1
+Louis Gonda;222;2001;ILFC;USA;2,1
+Sammy Ofer;222;2001;Zodiac Maritime Agencies;ISR;2,1
+Sergio Mantegazza;222;2001;Globus;CHE;2,1
+Steven Spielberg;222;2001;DreamWorks;USA;2,1
+Edmond Safra;223;1996;Banco Safra (now Saftra Group);LBN;1,8
+Teh Hong Piow;224;1996;Public Bank;MYS;1,8
+Rupert Johnson, Jr.;224;2014;Franklin Resources;USA;6,2
+S. Truett Cathy;224;2014;Chick-fil-A;USA;6,2
+Sumner Redstone;224;2014;National Amusements;USA;6,2
+Alberto Bailleres Gonzalez;225;1996;Penoles;MEX;1,8
+Huang Shi-hui;226;1996;Chinfon Group;Taiwan;1,8
+Moores family;227;1996;Littlewoods;GBR;1,8
+David Geffen;227;2014;Asylum Records/Geffen Records/Dreamworks;USA;6,1
+Iskander Makhmudov;227;2014;Ural Mining and Metallurgical Company;RUS;6,1
+Lucio Tan;227;2014;Asia Brewery;PHL;6,1
+Pyotr Aven;227;2014;Alfa Group;RUS;6,1
+Richard LeFrak;227;2014;LeFrack ;USA;6,1
+Sandra Ortega Mera;227;2014;Zara;ESP;6,1
+Thomas Frist, Jr.;227;2014;Hostpital Corporation of America;USA;6,1
+Bennett Dorrance;228;1996;Campbell Soup;USA;1,8
+Stanley Hubbard;229;1996;Hubbard Broadcasting Inc;USA;1,8
+Eliodoro Matte;230;1996;CMPC;CHL;1,7
+Goulandris family;231;1996;Fitzwilton;GRC;1,7
+John Dorrance;232;1996;Campbell Soup;IRL;1,7
+Masakuni Osano;233;1996;Kyo-Ya Company;JPN;1,7
+Ingvar Kamprad;234;1996;IKEA;SWE;1,7
+Antonio Champalimaud;234;2001;Maceira Liz;PRT;2
+Ayhan Sahenk;234;2001;Dogus Holding;TUR;2
+Edward Gaylord;234;2001;Gaylord Entertainment Company;USA;2
+Fayez Sarofim;234;2001;Fayez Sarofim & Co;USA;2
+Gary Winnick;234;2001;Global Crossing limited;USA;2
+Georg Thyssen-Bornemisza;234;2001;TBG (Thyssen-Bornemisza Group) Holdings;CHE;2
+Hubert Burda;234;2001;Hubert Burda Media;DEU;2
+Hugo Mann;234;2001;Mann Mobilia;DEU;2
+Jeffrey Bezos;234;2001;Amazon;USA;2
+John Menard;234;2001;Menards;USA;2
+John Morgridge;234;2001;Cisco Systems;USA;2
+Patrick McGovern;234;2001;International Data Goup;USA;2
+Peter Kellogg;234;2001;Spear, Leeds & Kellogg;USA;2
+Richard Egan;234;2001;EMC Corporation;USA;2
+Richard Li;234;2001;Cheung king;HKG;2
+Robert Naify;234;2001;;USA;2
+Theodore Waitt;234;2001;Gateway;USA;2
+Chan Laiwa;234;2014;Fuwah International Group;CHN;6
+Denis O'Brien;234;2014;Estat Digiphone (O2);IRL;6
+Filaret Galchev;234;2014;Rosuglesbyt;RUS;6
+Ira Rennert;234;2014;Renco;USA;6
+James Irving;234;2014;J.D. Irving;CAN;6
+Patrizio Bertelli;234;2014;Prada;ITA;6
+Piya Bhirombhakdi;235;1996;Boon Rawd Brewery;THA;1,7
+Boonchai Bencharongkul;236;1996;Total Access Communications;THA;1,7
+Gordon Getty;237;1996;Getty ;USA;1,7
+Theodore Waitt;238;1996;Gateway;USA;1,7
+Harry Brakemann Helmsley;239;1996;Helmsley hotels;USA;1,7
+Joan Kroc;240;1996;McDonald's;USA;1,7
+Charles Schwab;240;2014;Charles Schwab Corporation;USA;5,8
+Dennis Washington;240;2014;Washington Companies;USA;5,8
+Gayle Cook;240;2014;Cook Group;USA;5,8
+Leon Black;240;2014;Apollo Global management;USA;5,8
+Micky Arison;241;1996;Carnival Corporation;USA;1,7
+Luis Carlos Sarmiento Angulo;242;1996;Grupo Aval Acciones y Valores, SA;COL;1,6
+Paul-Louis Halley;243;1996;Promodes;FRA;1,6
+Rochling family;244;1996;Rochling Group;DEU;1,6
+Hui Ka Yan;244;2014;Evergrande Group;CHN;5,7
+Hui Wing Mau;244;2014;Shimao Property;HKG;5,7
+Idan Ofer;244;2014;Zodiac Maritime Agencies;ISR;5,7
+Isak Andic;244;2014;Mango;ESP;5,7
+Jorn Rausing;244;2014;Tetra Pak;SWE;5,7
+Leslie Wexner;244;2014;Limited Brands;USA;5,7
+Patrick McGovern;244;2014;International Data Goup;USA;5,7
+Sunil Mittal;244;2014;Bharti Enterprises;IND;5,7
+Klaus Tschira;245;1996;SAP AG;DEU;1,6
+Lo Ying Shek;246;1996;Great Eagle Holdings;HKG;1,6
+R Budi Hartono;247;1996;Djarum;IDN;1,6
+Kenkichi Nakajima;248;1996;Heiwa;JPN;1,6
+Kunio Busujima;249;1996;Sankyo;JPN;1,6
+Anton Rupert;250;1996;Rembrandt Group;ZAF;1,6
+Gerald Cavendish Grosvenor;251;1996;Grosvenor Group;GBR;1,6
+Abdul Aziz Al Ghurair;251;2001;Al-Ghurair Group;ARE;1,9
+Akihiko Otsuka;251;2001;Otsuka Holdings;JPN;1,9
+Alberto Bailleres Gonzalez;251;2001;Penoles;MEX;1,9
+Arthur Blank;251;2001;Home Depot;USA;1,9
+Glen Taylor;251;2001;Taylor Corporation;USA;1,9
+Jim Pattison;251;2001;Jim Pattison Group;CAN;1,9
+John Hargreaves;251;2001;Matalan;GBR;1,9
+John Jahr;251;2001;;DEU;1,9
+Khalid Bin Mahfouz;251;2001;National Comercial bank of Saudi Arabia;SAU;1,9
+Kjeld Kirk Kristiansen;251;2001;Lego;DNK;1,9
+Leona Helmsley;251;2001;Helmsley hotels;USA;1,9
+Lowry Mays;251;2001;Clear Channel Communications;USA;1,9
+Masao Morita;251;2001;Sony;JPN;1,9
+Michael Krasny;251;2001;CDW Corporation;USA;1,9
+Paolo Bulgari;251;2001;Bulgari;ITA;1,9
+Richard Rainwater;251;2001;ENSCO International;USA;1,9
+Robert Fisher;251;2001;The Gap;USA;1,9
+Sam Zell;251;2001;Equity Group Investments;USA;1,9
+Stefan Schoerghuber;251;2001;Schorghuber Group;DEU;1,9
+Terence Matthews;251;2001;Mitel;CAN;1,9
+Yasuyuki Nambu;251;2001;Pasona Inc;JPN;1,9
+Riley Bechtel;252;1996;Bechtel Corporation;USA;1,6
+Peter Nicholas;253;1996;Boston Scientific;USA;1,6
+Ray Lee Hunt;253;2014;Hunt Oil. Co;USA;5,6
+Stanley Kroenke;253;2014;Kroenke Sports Enterprises;USA;5,6
+Teh Hong Piow;253;2014;Public Bank;MYS;5,6
+Stephen Bechtel;254;1996;Bechtel Corporation;USA;1,6
+Peugeot family;255;1996;Peugeot;FRA;1,5
+Karl Diehl;256;1996;Diehl Stiftung;DEU;1,5
+Arthur Irving;256;2014;Irving Oil;CAN;5,5
+Bruno Schroder;256;2014;Schroders;GBR;5,5
+Carlos and Alejandro Bulgheroni;256;2014;Bridas Energy;ARG;5,5
+Jeffery Hildebrand;256;2014;Hilcorp Energy Company;USA;5,5
+Liu Yongxing;256;2014;East Hope Group;CHN;5,5
+Michael Ashley;256;2014;Sports Direct;GBR;5,5
+Thomas Schmidheiny;256;2014;Holcim;CHE;5,5
+Simon family;257;1996;;DEU;1,5
+Albert von Thurn und Taxis;258;1996;von Thurn and Taxis family;DEU;1,5
+John Jahr;259;1996;;DEU;1,5
+Freudenberg family;260;1996;Freudenberg Group;DEU;1,5
+Lakshmi Mittal;261;1996;ArcelorMittal;IND;1,5
+Kenshin Oshima;262;1996;SFCG;JPN;1,5
+Martin Hilti;263;1996;Hilti;LIE;1,5
+Melker Schorling;263;2014;Melker Schorling AB (MSAB);SWE;5,4
+Sergei Popov;263;2014;MDM Bank;RUS;5,4
+Stephen Ross;263;2014;The Related Companies;USA;5,4
+Terry Gou;263;2014;Foxconn;Taiwan;5,4
+Yeoh Tiong Lay;264;1996;YTL Corporation;MYS;1,5
+Ananda Krishnan;265;1996;Usaha Tegas Sdn Bhd;MYS;1,5
+Bernardo Garza Sada;266;1996;Grupo ALFA;MEX;1,5
+Juffali family;267;1996;Juffali Group;SAU;1,5
+Americo Amorim;267;2014;Corticeira Amorim;PRT;5,3
+Anders Holch Povlsen;267;2014;Bestseller;DEN;5,3
+Stef Wertheimer;267;2014;ISCAR;ISR;5,3
+Willi and Isolde Liebherr;268;1996;Liebherr;CHE;1,5
+Martin Ebner;269;1996;BZ Bank;CHE;1,5
+Sergio Mantegazza;270;1996;Globus;CHE;1,5
+Andrew Forrest;270;2014;Fortescue Metals Group;AUS;5,2
+Bidzina Ivanishvili;270;2014;Rossiysky Kredit;GEO;5,2
+Karl-Heinz Kipp;270;2014;Massa;DEU;5,2
+Ken Griffin;270;2014;Citadel LLC;USA;5,2
+Kwee brothers;270;2014;Pontiac Land;SGP;5,2
+Maria Asuncion Aramburuzabala;270;2014;Grupo Modelo;MEX;5,2
+Wee Cho Yaw;270;2014;United Overseas Bank;SGP;5,2
+Shi Wen-long;271;1996;Chi Mei Corporation;Taiwan;1,5
+Prachai Leophairatana;272;1996;Thai Petrochemical Industry;THA;1,5
+Blase Golisano;272;2001;Paychex;USA;1,8
+Carl Pohlad;272;2001;Marquette Bank;USA;1,8
+Charles Butt;272;2001;H-E-B supermarket;USA;1,8
+Daniel Abraham;272;2001;Slim-Fast;USA;1,8
+Donald Hall;272;2001;Hallmark Cards;USA;1,8
+Herbert Allen;272;2001;Allen & Company;USA;1,8
+Irwin Jacobs;272;2001;Qualcomm;USA;1,8
+Jeronimo Arango;272;2001;Aurrera;MEX;1,8
+John Fisher;272;2001;The Gap;USA;1,8
+Juan and Carlos March;272;2001;Acciona Trasmediterranea;ESP;1,8
+Julio Bozano;272;2001;Banco Bozano Simonsen;BRA;1,8
+Kenichi Mabuchi;272;2001;Mabuchi Motor Company;JPN;1,8
+Lakshmi Mittal;272;2001;ArcelorMittal;GBR;1,8
+Leslie Gonda;272;2001;ILFC;USA;1,8
+Maria Asuncion Aramburuzabala;272;2001;Grupo Modelo;MEX;1,8
+Mary Alice Dorrance Malone;272;2001;Campbell Soup;USA;1,8
+Richard Branson;272;2001;Virgin Group;GBR;1,8
+Richard Farmer;272;2001;Cintas Corporation;USA;1,8
+Ronald Burkle;272;2001;Yucaipa Companies;USA;1,8
+Vladimir Potanin;272;2001;Interros;RUS;1,8
+John Abele;273;1996;Boston Scientific;USA;1,5
+James Cargill;274;1996;Cargill;USA;1,5
+Margaret Cargill;275;1996;Cargill;USA;1,5
+Michel David-Weill;276;1996;Lazard;FRA;1,4
+Serge Dassault;277;1996;Dassault Group;FRA;1,4
+Robert Bosch Jr;278;1996;Robert Bosch GmbH;DEU;1,4
+Finn Rausing;278;2014;Tetra Pak;SWE;5,1
+Jacqueline Desmarais;278;2014;Power Corporation of Canada;CAN;5,1
+Kirsten Rausing;278;2014;Tetra Pak;SWE;5,1
+Takemitsu Takizaki;279;1996;Keyence;JPN;1,4
+Hiroshi Yamauchi;280;1996;Nintendo;JPN;1,4
+Tajudin Ramli;281;1996;Malaysia Airlines;MYS;1,4
+Anil Ambani;281;2014;Reliance;IND;5
+Antonio Del Valle Ruiz;281;2014;Mexichem;MEX;5
+Bruce Halle;281;2014;Discount Tire;USA;5
+David Green;281;2014;Hobby Lobby;USA;5
+Frederik Paulsen;281;2014;Ferring Pharmaceuticals;SWE;5
+George Roberts;281;2014;Kohlberg Kravis Roberts;USA;5
+Gordon Moore;281;2014;Intel ;USA;5
+Harry Triguboff;281;2014;Meriton;AUS;5
+Henry Kravis;281;2014;Kohlberg Kravis Roberts;USA;5
+Joe Lewis;281;2014;Tavistock Group;GBR;5
+Micky Jagtiani;281;2014;Landmark Group;IND;5
+Richard Branson;281;2014;Virgin Group;GBR;5
+Stein Erik Hagen;281;2014;RIMI;NOR;5
+Walter Kwok;281;2014;Sun Hung Kai Properties;HKG;5
+Alfonso Romo Garza;282;1996;Pulsar International;MEX;1,4
+Jorge Larrea;283;1996;Grupo Mexico;MEX;1,4
+Maria Asuncion Aramburuzabala;284;1996;Grupo Modelo;MEX;1,4
+Stefan Persson;285;1996; H&M;SWE;1,4
+Klaus Jacobs;286;1996;Jacobs Suchard AG;CHE;1,4
+Krit Ratanarak;287;1996;Bank of Ayudhya/Bangkok Broadcasting and Television Company;THA;1,4
+Ayhan Sahenk;288;1996;Dogus Holding;TUR;1,4
+Richard Branson;289;1996;Virgin Group;GBR;1,4
+James Sorenson;290;1996;Sorenson Companies;USA;1,4
+H Wayne Huizenga;291;1996;Waste Management;USA;1,4
+Kenneth Troutt;292;1996;Excel Communications;USA;1,4
+Andre Kudelski;292;2001;Kudelski Group;CHE;1,7
+Clayton Mathile;292;2001;Iams;USA;1,7
+Clemmie Spangler Jr;292;2001;Bank of North Carolina;USA;1,7
+Donald Trump;292;2001;The Trump Organization;USA;1,7
+Eugene Melnyk;292;2001;Biovail Corporation;CAN;1,7
+Giorgio Armani;292;2001;Armani;ITA;1,7
+Gregorio Perez Companc;292;2001;Petrolera Perez Companc;ARG;1,7
+James Jannard;292;2001;Oakley, Inc;USA;1,7
+Jess Jackson;292;2001;Kendall-Jackson;USA;1,7
+John Arrillaga;292;2001;;USA;1,7
+Kenneth Morrison;292;2001;Morrisons;GBR;1,7
+Kumar Birla;292;2001;Aditya Birla Group;IND;1,7
+Lawrence Flinn Jr;292;2001;UVSG;USA;1,7
+Michele Ferrero;292;2001;Ferrero spa;ITA;1,7
+Rachman Halim;292;2001;Gudang Garam;IDN;1,7
+Richard Peery;292;2001;;USA;1,7
+Robert Rich Sr;292;2001;Rich Products;USA;1,7
+Roger Sant;292;2001;AES;USA;1,7
+Rupert Johnson;292;2001;Franklin Resources;USA;1,7
+Scott McNealy;292;2001;Sun Microsystems;USA;1,7
+Maurice Greenberg;293;1996;AIG;USA;1,4
+Alfred Lerner;294;1996;MBNA;USA;1,4
+David Rockefeller;295;1996;Standard Oil;USA;1,4
+Albert Frere;295;2014;Groupe Bruxelles Lambert;BEL;4,9
+Cyrus Poonawalla;295;2014;Serum Institute of India;IND;4,9
+Erivan Haub;295;2014;Tenglemann Group;DEU;4,9
+Frits Goldschmeding;295;2014;Randstad;NLD;4,9
+George Lucas;295;2014;Lucasfilm;USA;4,9
+Heinz-Horst Deichmann;295;2014;Heinrich Deichmann-Schuhe;DEU;4,9
+Kunio Busujima;295;2014;Sankyo;JPN;4,9
+Robert Rowling;295;2014;Tana Exploration Company;USA;4,9
+Savitri Jindal;295;2014;O.P. Jindal Group;IND;4,9
+Shashi and Ravi Ruia;295;2014;Essar Group;IND;4,9
+Jose Said Saffie;296;1996;;CHL;1,3
+Jaime Said Demarfa;297;1996;;CHL;1,3
+Carlos Ardila Lulle;298;1996;Organizacion Ardila Lulle;COL;1,3
+Julio Mario Santo Domingo;299;1996;Santo Domingo Group;COL;1,3
+Hans-Werner Hector;300;1996;SAP AG;DEU;1,3
+Reinhard Mohn;301;1996;Bertelsmann;DEU;1,3
+Baldwin and Nikolaus Knauf;302;1996;Edmond de Rothschild Group;DEU;1,3
+Reinhold Wuerth;303;1996;Adolf Wurth Group;DEU;1,3
+Chen Din Hwa;304;1996;Nan Fung Textiles;HKG;1,3
+Sjamsul Nursalim;305;1996;Gajah Tunggal;IDN;1,3
+Abdulla bin Ahmad Al Ghurair;305;2014;Al-Ghurair Group;ARE;4,8
+Ann Walton Kroenke;305;2014;Walmart;USA;4,8
+Bruce Kovner;305;2014;Caxton Associates;USA;4,8
+Daniel Ziff;305;2014;Ziff Davis Inc;USA;4,8
+Dirk Ziff;305;2014;Ziff Davis Inc;USA;4,8
+Gwendolyn Sontheim Meyer;305;2014;Cargill;USA;4,8
+Juan Roig;305;2014;Mercadona;ESP;4,8
+Karl Wlaschek;305;2014;BILLA;AUT;4,8
+Laurence Graff;305;2014;Graff Diamonds;GBR;4,8
+Liselott Persson;305;2014; H&M;SWE;4,8
+Pauline MacMillan Keinath;305;2014;Cargill;USA;4,8
+Robert Ziff;305;2014;Ziff Davis Inc;USA;4,8
+Whitney MacMillan;305;2014;Cargill;USA;4,8
+Zhang Zhidong;305;2014;Tencent;CHN;4,8
+Mochtar Riady;306;1996;Lippo Group;IDN;1,3
+Tadahiro Yoshida;307;1996;YKK;JPN;1,3
+Den Fujita;308;1996;McDonald's Japan;JPN;1,3
+Hiroshi Takei;309;1996;;JPN;1,3
+Masafumi Miyamoto;310;1996;Square;JPN;1,3
+Soichiro Fukutake;311;1996;Benesse Corporation;JPN;1,3
+Edward Johnson;312;1996;Fidelity Investments;USA;1,3
+Abilio dos Santos Diniz;312;2001;Companhia Brasileira de Distribui?ao;BRA;1,6
+Andrew McKelvey;312;2001;Monster Worldwide;USA;1,6
+Chen Din Hwa;312;2001;Nan Fung Textiles;HKG;1,6
+Dennis Bakke;312;2001;AES Corporation;USA;1,6
+Dennis Washington;312;2001;Washington Companies;USA;1,6
+Didier Primat;312;2001;Schlumberger;FRA;1,6
+Gary Magness;312;2001;TCI;USA;1,6
+George Mitchell;312;2001;Mitchell Energy and Development Co;USA;1,6
+Gil Shwed;312;2001;Check Point;ISR;1,6
+Jackson Stephens;312;2001;Stephens Group;USA;1,6
+Jean-Louis Dumas;312;2001;Hermes;FRA;1,6
+Kemal Uzan;312;2001;;TUR;1,6
+Kwek Leng Beng;312;2001;Hong Leong Group;SGP;1,6
+Lee Kun-Hee;312;2001;Samsung;KOR;1,6
+Michael Birck;312;2001;Tellabs;USA;1,6
+Perry Bass;312;2001;Bass Brothers Enterprises;USA;1,6
+Richard DeVos;312;2001;Amway;USA;1,6
+Robert Johnson;312;2001;Black Entertainment Television;USA;1,6
+Roberto Rocca;312;2001;Techint;ARG;1,6
+Sanford Weill;312;2001;Cogan, Berlind, Weill & Levitt;USA;1,6
+Stanley Hubbard;312;2001;Hubbard Broadcasting Inc;USA;1,6
+Tetsuro Funai;312;2001;Funai Electric;JPN;1,6
+Vladimir Bogdanov;312;2001;Surgutneftegaz;RUS;1,6
+William Morean;312;2001;Jabil Circuit;USA;1,6
+Donald Hall;313;1996;Hallmark Cards;USA;1,3
+Ralph Lauren;314;1996;Ralph Lauren;USA;1,3
+Samuel LeFrak;315;1996;LeFrack ;USA;1,3
+Leslie Wexner;316;1996;Limited Brands;USA;1,3
+Craig McCaw;317;1996;McCaw Cellular;USA;1,3
+Dorrance Hill Hamilton;318;1996;Campbell Soup;USA;1,3
+Amos Hosetter Jr;319;1996;Continental Cablevision;USA;1,3
+Andrew Tan;319;2014;Alliance Global Group;PHL;4,7
+Arnon Milchan;319;2014;New Regency Films;ISR;4,7
+Frank Lowy;319;2014;Westfield Group;AUS;4,7
+Horst Paulmann;319;2014;Hipermercados Jumbo;CHL;4,7
+Sergio Mantegazza;319;2014;Globus;CHE;4,7
+Shari Arison;319;2014;Carnival Corporation;ISR;4,7
+Lorenzo Mendoza;320;1996;Empresas Polar;VEN;1,3
+Roberto and Gabriel Andrade;321;1996;Andrade Gutierrez;BRA;1,2
+Abilio dos Santos Diniz;322;1996;Companhia Brasileira de Distribui?ao;BRA;1,2
+Luiz Alberto Garcia;323;1996;Algar Group;BRA;1,2
+Michael DeGroote;324;1996;Laidlaw Transport;CAN;1,2
+Alvaro Noboa;325;1996;Exportadora Bananera Noboa;ECU;1,2
+Diane Hendricks;325;2014;ABC Supply;USA;4,6
+Mike Adenuga;325;2014;Conoil/Globacom;NGA;4,6
+Pierre Bellon;325;2014;Sodexo;FRA;4,6
+Leibbrand family;326;1996;;DEU;1,2
+Reimann family;327;1996;Benckiser;DEU;1,2
+Conle famle;328;1996;Sirosa;DEU;1,2
+David Sun;328;2014;Kingston Technology;USA;4,5
+Dieter Schnabel;328;2014;Helm AG;DEU;4,5
+James Dyson;328;2014;Dyson;GBR;4,5
+Jay Y. Lee;328;2014;Samsung;KOR;4,5
+John A. Sobrato;328;2014;Sobrato Organization;USA;4,5
+John Tu;328;2014;Kingston Technology;USA;4,5
+Kirk Kerkorian;328;2014;MGM Grand;USA;4,5
+Lynn Schusterman;328;2014;Samson Investment Company;USA;4,5
+Majid Al Futtaim;328;2014;Majid Al Futtaim;ARE;4,5
+Michael Herz;328;2014;Maxingvest AG;DEU;4,5
+Trevor Rees-Jones;328;2014;Chief Oil and Gas ;USA;4,5
+Wolfgang Herz;328;2014;Maxingvest AG;DEU;4,5
+Masakazu Shiiki;329;1996;Sanyo Shinpan;JPN;1,2
+Lorenzo Zambrano;330;1996;Cemex;MEX;1,2
+Wee Cho Yaw;331;1996;United Overseas Bank;SGP;1,2
+Frances Koshland Geballe;332;1996;Levi Strauss & co;USA;1,2
+Josephine Haas;333;1996;Levi Strauss & co;USA;1,2
+Richard Goldman;334;1996;Goldman Insurance and Risk Management;USA;1,2
+Barbara Piasecka Johnson;335;1996;Johnson & Johnson;USA;1,2
+William Davidson;336;1996;Guardian Industries;USA;1,2
+Abdul Al Rahman  Al Jeraisy;336;2001;Jeraisy Group;SAU;1,5
+Bennett Dorrance;336;2001;Campbell Soup;USA;1,5
+Billy Joe McCombs;336;2001;Red McCombs Automotive Group;USA;1,5
+Carl Berg;336;2001;Berg and Berg;USA;1,5
+Carlos Peralta;336;2001;Groupo IUSA;MEX;1,5
+Christoph Blocher;336;2001;EMS-Chemie;CHE;1,5
+Enric Bernat;336;2001;Chupa Chups;ESP;1,5
+Frank Batten;336;2001;The Weather Channel;USA;1,5
+George Roberts;336;2001;Kohlberg Kravis Roberts;USA;1,5
+Harold Simmons;336;2001;;USA;1,5
+Henry Kravis;336;2001;Kohlberg Kravis Roberts;USA;1,5
+Henry Yuen;336;2001;Gemstar-TV Guide International;USA;1,5
+John Sobrato;336;2001;Sobrato Organization;USA;1,5
+Kenneth Troutt;336;2001;Excel Communications;USA;1,5
+Kim Magness;336;2001;TeleCommunications Inc;USA;1,5
+Laurance Rockefeller;336;2001;Standard Oil;USA;1,5
+Luis Carlos Sarmiento Angulo;336;2001;Grupo Aval Acciones y Valores, SA;COL;1,5
+Marius Nacht;336;2001;Check Point;ISR;1,5
+Mitchell Rales;336;2001;Danaher;USA;1,5
+Rem Viakhirev;336;2001;Gazprom;RUS;1,5
+Richard Goldman;336;2001;Goldman Insurance and Risk Management;USA;1,5
+Richard Kinder;336;2001;Kinder Morgan Energy Partners;USA;1,5
+Richard Marriott;336;2001;Marriot;USA;1,5
+Roberto Marinho;336;2001;Globo Organizations;BRA;1,5
+Stelios Haji-Ioannou;336;2001;Easy Jet;GRC;1,5
+Steven Rales;336;2001;Danaher;USA;1,5
+Tiong Hiew King;336;2001;Rimbunan Hijau Group;MYS;1,5
+Dennis Washington;337;1996;Washington Companies;USA;1,2
+Kathryn McCurry Albertson;338;1996;Albertsons;USA;1,2
+Robert Galvin;339;1996;Motorola;USA;1,2
+Donald Fisher;340;1996;The Gap;USA;1,2
+Barbara Carlson Gage;340;2014;Carlson Inc;USA;4,4
+Guenter Herz & Family;340;2014;Maxingvest AG;DEU;4,4
+Kelcy Warren;340;2014;Energy Transfer Partners;USA;4,4
+Luo Jye;340;2014;Maxxis;Taiwan;4,4
+Marilyn Carlson Nelson;340;2014;Carlson Inc;USA;4,4
+Doris Fisher;341;1996;The Gap;USA;1,2
+David Duffield;342;1996;PeopleSoft;USA;1,2
+Fayez Sarofim;343;1996;Fayez Sarofim & Co;USA;1,2
+Paul Mellon;344;1996;Mellon Bank;USA;1,2
+Susan Thompson Buffett;345;1996;Berkshire Hathaway;USA;1,2
+Dan Olsson;345;2014;Stena Sphere;SWE;4,3
+Emanuele (Lino) Saputo;345;2014;Saputo Inc;CAN;4,3
+Guo Guangchang;345;2014;Fosun Group;CHN;4,3
+Lee Shin Cheng;345;2014;IOI Group;MYS;4,3
+Liang Wengen;345;2014;Sany Heavy Industry;CHN;4,3
+Paul Tudor Jones, II.;345;2014;Tudor Investment Corporation;USA;4,3
+Sam Zell;345;2014;Equity Group Investments;USA;4,3
+Samvel Karapetyan;345;2014;Tashir Group;RUS;4,3
+Wang Chuanfu;345;2014;BYD Company;CHN;4,3
+Sam Zell;346;1996;Equity Group Investments;USA;1,2
+Peter Haas Jr;347;1996;Levi Strauss & co;USA;1,2
+Bemberg family;348;1996;Cerveza Quilmes;ARG;1,1
+Leon Feffer;349;1996;Suzano Papel e Celulose;BRA;1,1
+Galen Weston;350;1996;George Weston Limited;CAN;1,1
+Run Run Shaw;351;1996;Shaw Brothers Studio;HKG;1,1
+George Wong;352;1996;Chyau Fwu Corp;HKG;1,1
+Dhirubhai Ambani;353;1996;Reliance;IND;1,1
+Kenichi Mabuchi;354;1996;Mabuchi Motor Company;JPN;1,1
+Akira Mori;354;2014;Mori Building;JPN;4,2
+Bernard Ecclestone;354;2014;Formula One Group;GBR;4,2
+Elizabeth Mohn;354;2014;Bertelsmann;DEU;4,2
+Enrique Razon;354;2014;International Containter Terminal Services;PHL;4,2
+Friede Springer;354;2014;Axel Sbringer AG;DEU;4,2
+Jeronimo Arango;354;2014;Aurrera;MEX;4,2
+Leonard Stern;354;2014;Hartz Group;USA;4,2
+Lin Rong San;354;2014;Union Bank of Taiwan;Taiwan;4,2
+Malcolm Glazer;354;2014;First Allied Corporation;USA;4,2
+Ralph Dommermuth;354;2014;United Internet;DEU;4,2
+Ted Lerner;354;2014;Lerner Enterprises;USA;4,2
+Wang Wenyin;354;2014;Amer International Group;CHN;4,2
+William Ding;354;2014;NetEase;CHN;4,2
+Kazuo Inamori;355;1996;Kyocera;JPN;1,1
+Isono family;356;1996;;JPN;1,1
+Renichi Takenaka;357;1996;Takenaka;JPN;1,1
+Ryusuke Kimura;358;1996;;JPN;1,1
+Kim Suk-won;359;1996;;KOR;1,1
+Yahaya Ahmad;360;1996;DRB-HICOM Group;MYS;1,1
+Eugenio Garza Lagnera;361;1996;Femsa;MEX;1,1
+Roberto Gonzalez Barrera;362;1996;Maseca;MEX;1,1
+Isaac Saba Raffoul;363;1996;Groupo Casa Saba;MEX;1,1
+Barbara Carlson Gage;363;2001;Carlson Inc;USA;1,4
+Emilio Botin;363;2001;Grupo Santander;ESP;1,4
+Franklin Booth;363;2001;Berkshire Hathaway;USA;1,4
+George Lindemann;363;2001;Vision Cable, Metro Mobile, Southern Union;USA;1,4
+Gloria von Thurn und Taxis;363;2001;von Thurn and Taxis family;DEU;1,4
+Jay Van Andel;363;2001;Amway;USA;1,4
+John van Vlissingen;363;2001;BCD Holdings;NLD;1,4
+Koo Chen-fu;363;2001;Koos group;Taiwan;1,4
+Marilyn Carlson Nelson;363;2001;Carlson Inc;USA;1,4
+Mark Cuban;363;2001;Broadcast.com;USA;1,4
+Michael Hilti;363;2001;;LIE;1,4
+Miuccia Prada;363;2001;Prada;ITA;1,4
+Pierre Bellon;363;2001;Sodexo;FRA;1,4
+Rafael del Pino;363;2001;Ferrovial;ESP;1,4
+Robert McNair;363;2001;Cogen Technologies;USA;1,4
+Roman Abramovich;363;2001;Millhouse LLC;RUS;1,4
+Soichiro Fukutake;363;2001;Benesse Corporation;JPN;1,4
+Stanley Druckenmiller;363;2001;Duquesne Capital;USA;1,4
+Stein Erik Hagen;363;2001;RIMI;NOR;1,4
+Stephen Case;363;2001;AOL;USA;1,4
+Thomas Frist;363;2001;Hostpital Corporation of America;USA;1,4
+Willi and Isolde Liebherr;363;2001;Liebherr;CHE;1,4
+William Ford;363;2001;Ford Motor Company;USA;1,4
+William Kellogg;363;2001;Khol's;USA;1,4
+Juan and Carlos March;364;1996;Acciona Trasmediterranea;ESP;1,1
+Baron Hans Heinrich Thyssen-Bornemisza;365;1996;TBG (Thyssen-Bornemisza Group) Holdings;CHE;1,1
+Chang Yung Fa;366;1996;Evergreen Group;Taiwan;1,1
+Robert Haas;367;1996;Levi Strauss & co;USA;1,1
+Anthony Bamford;367;2014;JCB;GBR;4,1
+Barry Lam;367;2014;Quanta Computer;Taiwan;4,1
+Beny Steinmetz;367;2014;Steinmetz Diamond Group and BSGR;ISR;4,1
+Eduardo Saverin;367;2014;Facebook;BRA;4,1
+Francisco Ivens de Sa Dias Branco;367;2014;M. Dias Branco S.A.;BRA;4,1
+Ingvar Kamprad;367;2014;IKEA;SWE;4,1
+Nancy Walton Laurie;367;2014;Walmart;USA;4,1
+Shahid Khan;367;2014;Flex-N-Gate;USA;4,1
+Hope Hill Van Beuren;368;1996;Campbell Soup;USA;1,1
+Charlotte Colket Weber;369;1996;Campbell Soup;USA;1,1
+Evelyn Danzig Haas;370;1996;Levi Strauss & co;USA;1,1
+Ted Schwartz;371;1996;APAC Customer Services;USA;1,1
+William Ford;372;1996;Ford Motor Company;USA;1,1
+Richard Rainwater;373;1996;ENSCO International;USA;1,1
+Michael Dell;374;1996;Dell;USA;1,1
+Reese Rowling;375;1996;Tana Exploration Company;USA;1,1
+Arkady Rotenberg;375;2014;SGM Group, Mostotrest, TPS Avia;RUS;4
+Bertil Hult;375;2014;EF Education;SWE;4
+Chairul Tanjung;375;2014;Para Group (aka CT Corp);IDN;4
+Curt Engelhorn;375;2014;BASF/Boehringer Mannheim/DePuy;DEU;4
+David & Frederick Barclay;375;2014;Press Holdings;GBR;4
+Erich Kellerhals;375;2014;Media Markt;DEU;4
+Gustaf Douglas;375;2014;Investment AB Latour;SWE;4
+Gustavo Cisneros;375;2014;Cisneros Group;VEN;4
+John Morris;375;2014;Bass Pro Shops;USA;4
+Lars Larsen;375;2014;JYSK;DEN;4
+Lei Jun;375;2014;Xiaomi Tech;CHN;4
+Randal Kirk;375;2014;General Injectables and Vaccines/Third Security LLC;USA;4
+Wang Wei;375;2014;S.F. Express;CHN;4
+Curtis LeRoy Carlson;376;1996;Carlson;USA;1,1
+Charles Schwab;377;1996;Charles Schwab Corporation;USA;1,1
+Eli Broad;378;1996;Kaufman and Broad, SunAmerica;USA;1,1
+Carl Lindner Jr;379;1996;American Financial Group;USA;1,1
+Thomas Frist;380;1996;Hostpital Corporation of America;USA;1,1
+Charles Gates Jr;381;1996;Gates Rubber Company;USA;1,1
+Gustavo Cisneros;382;1996;Cisneros Group;VEN;1,1
+Ahmed Ali Kanoo;383;1996;YBA Kanoo;BHR;1
+Larragoiti family;384;1996;SulAmerica Seguros;BRA;1
+Norberto Odebrecht;385;1996;Odebrecht Group;BRA;1
+Gerard Louis-Dreyfus;386;1996;Louis Dreyfus Group;FRA;1
+Nathaniel Rothschild;387;1996;?N M Rothschild & Sons;GBR;1
+Alfredo Harp Helu;387;2001;Banamex;MEX;1,3
+Andronico Luksic;387;2001;Antofagasta;CHL;1,3
+Anthony Bamford;387;2001;JCB;GBR;1,3
+Arthur Williams Jr;387;2001;A.L. Williams & Associates;USA;1,3
+Arturo Moreno;387;2001;Outdoor Systems;USA;1,3
+Bradley Hughes;387;2001;Public Storage;USA;1,3
+Calisto Tanzi;387;2001;Parmalat;ITA;1,3
+Carlo De Benedetti;387;2001;CIR Group;ITA;1,3
+Charles Munger;387;2001;Berkshire Hathaway;USA;1,3
+Donald Sturm;387;2001;Peter Kiewit Sons;USA;1,3
+Eliodoro Matte;387;2001;CMPC;CHL;1,3
+Francesco Micheli;387;2001;e.Biscom-Fastweb;ITA;1,3
+Germain Lamonde;387;2001;EXFO;CAN;1,3
+Haim Saban;387;2001;Saban Entertainment;USA;1,3
+Hans-Werner Hector;387;2001;SAP AG;DEU;1,3
+Henry Sy;387;2001;SM Malls;PHL;1,3
+Isaac Saba Raffoul;387;2001;Groupo Casa Saba;MEX;1,3
+James Moran;387;2001;JM Family Enterprises;USA;1,3
+Johann Rupert;387;2001;Rembrandt Group;ZAF;1,3
+Kenneth Langone;387;2001;Home Depot;USA;1,3
+Mikhail Fridman;387;2001;Alfa Group;RUS;1,3
+Patrick Guerrand;387;2001;Hermes;FRA;1,3
+Pierce Marshall;387;2001;Standard Oil;USA;1,3
+Putera Sampoerna;387;2001;Sampoerna;IDN;1,3
+Richard Pratt;387;2001;Visy Industries;AUS;1,3
+Roberto Hernandez Ramirez;387;2001;Banamex;MEX;1,3
+Rong Yiren;387;2001;China International Trust and Investment Corp;CHN;1,3
+Saleh Al Rajhi;387;2001;Al-Rajhi Bank;SAU;1,3
+Silvio Scaglia;387;2001;Fastweb;ITA;1,3
+Steven Jobs;387;2001;Apple;USA;1,3
+Vagit Alekperov;387;2001;Lukoil;RUS;1,3
+Vincent Smith;387;2001;Patrol Software North America;USA;1,3
+Wallace McCain;387;2001;McCain Foods Limited;CAN;1,3
+William Levine;387;2001;Outdoor Systems;USA;1,3
+Adolf Merckle;388;1996;Ratiopharm;DEU;1
+Bernard (Barry) Sherman;388;2014;Empire Laboratories;CAN;3,9
+Daniel Och;388;2014;Och-Ziff Capital Management Group;USA;3,9
+Donald Trump;388;2014;The Trump Organization;USA;3,9
+Heinz-Georg Baus;388;2014;Bauhaus;DEU;3,9
+John Gokongwei, Jr.;388;2014;JG Summit Holdings;PHL;3,9
+Martha Ingram;388;2014;Ingram Industries;USA;3,9
+Riley Bechtel;388;2014;Bechtel Corporation;USA;3,9
+Stephen Bechtel, Jr.;388;2014;Bechtel Corporation;USA;3,9
+Strwher family;389;1996;;DEU;1
+Werhahn family;390;1996;Wilh. Werhahn KG;DEU;1
+Chao Kuang-Piu;391;1996;;HKG;1
+Shoul Eisenberg;392;1996;Israel Corporation;ISR;1
+Sammy Ofer;393;1996;Zodiac Maritime Agencies;ISR;1
+Otani Family;394;1996;;JPN;1
+Shoichiro Toyoda;395;1996;Toyota Motors;JPN;1
+Junichi Murata;396;1996;;JPN;1
+Alain Merieux;396;2014;Institut Merieux;FRA;3,8
+Alexander Abramov;396;2014;EvrazHolding;RUS;3,8
+Andreas von Bechtolsheim;396;2014;Sun Microsystems;DEU;3,8
+Jeffrey Skoll;396;2014;Ebay;USA;3,8
+Mark Shoen;396;2014;U-haul;USA;3,8
+Mitchell Rales;396;2014;Danaher;USA;3,8
+Odd Reitan;396;2014;Reitan Group;NOR;3,8
+Peter Hargreaves;396;2014;Hargreaves Lansdown;GBR;3,8
+Steve Wynn;396;2014;Wynn Resorts (formarly Mirage Resorts);USA;3,8
+Uday Kotak;396;2014;Kotak Mahindra Bank;IND;3,8
+Walter Faria;396;2014;Grupo Petropolis;BRA;3,8
+William Koch;396;2014;Koch industries;USA;3,8
+Halim Saad;397;1996;Renong;MYS;1
+Jeronimo Arango;398;1996;Aurrera;MEX;1
+Ricardo Salinas Pliego;399;1996;Grupo Salinas/Group Elektra;MEX;1
+Autrey family;400;1996;;MEX;1
+Ana Maria Brescia Cafferata;401;1996;Grupo Prescia (now Pandora Group);PER;1
+Eugenio Lopez;402;1996;Jumex;PHL;1
+Saleh Kamel;403;1996;Dallah al Baraka Group;SAU;1
+Abdul Aziz Al-Sulaiman;404;1996;Rolaco Trading and Contracting Company;SAU;1
+Alicia and Esther Koplowitz;405;1996;Construcciones y Contratas;ESP;1
+Henri Andre;406;1996;Andre & Cie;CHE;1
+Eric Andre;407;1996;Andre & Cie;CHE;1
+Boonsong Asavabhokhin;408;1996;;THA;1
+Aloys Wobben;408;2014;Enercon;DEU;3,7
+Axel Oberwelland;408;2014;Storck;DEU;3,7
+Charles Dolan;408;2014;Cablevision and HBO;USA;3,7
+Daniel Gilbert;408;2014;Quicken Loans;USA;3,7
+Gong Hongjia;408;2014;Hikvision;HKG;3,7
+Guenther Fielmann;408;2014;Fielmann AG;DEU;3,7
+Igor Kesaev;408;2014;Mercury Company;RUS;3,7
+Isabel dos Santos;408;2014;Unitel Interneational Holdings;AGO;3,7
+Jiang Bin;408;2014;GoerTek;CHN;3,7
+John Sall;408;2014;SAS institute;USA;3,7
+Joseph Tsai;408;2014;Alibaba;CAN;3,7
+Karen Pritzker;408;2014;Hyatt;USA;3,7
+Martin & Olivier Bouygues;408;2014;Bouygues S.A.;FRA;3,7
+Michael Stoschek;408;2014;Brose;DEU;3,7
+Murat Ulker;408;2014;Yildiz Holding;TUR;3,7
+Nathan Kirsh;408;2014;Jetro Holdings;SWZ;3,7
+Niels Peter Louis-Hansen;408;2014;Coloplast;DEN;3,7
+Ronald Lauder;408;2014;Est?Lauder;USA;3,7
+Wu Yajun;408;2014;Longfor Properties;CHN;3,7
+Zhang Jindong;408;2014;Suning Group;CHN;3,7
+Zhang Xin;408;2014;SOHO China;CHN;3,7
+John Sall;409;1996;SAS institute;USA;1
+James Jannard;410;1996;Oakley, Inc;USA;1
+Kenneth Tuchman;411;1996;Teletech;USA;1
+Michael Bloomberg;412;1996;Bloomberg;USA;1
+Laurance Rockefeller;413;1996;Standard Oil;USA;1
+Randolph Hearst;414;1996;Hearst Corporation;USA;1
+Fred Lennon;415;1996;Swagelok Company;USA;1
+Winthrop Rockefeller;416;1996;Standard Oil;USA;1
+Dirk Ziff;417;1996;Ziff Davis Inc;USA;1
+Robert Ziff;418;1996;Ziff Davis Inc;USA;1
+Daniel Ziff;419;1996;Ziff Davis Inc;USA;1
+James Moran;420;1996;JM Family Enterprises;USA;1
+Jack Taylor;421;1996;Enterprise;USA;1
+Anthony O'Reilly;421;2001;Independent News & Media;IRL;1,2
+Archie Aldis Emmerson;421;2001;Sierra Pacific Industries;USA;1,2
+Brian Roberts;421;2001;Comcast;USA;1,2
+Daniel Ziff;421;2001;Ziff Davis Inc;USA;1,2
+David Bromilow;421;2001;ADIDAS;THA;1,2
+Dirk Ziff;421;2001;Ziff Davis Inc;USA;1,2
+Edward Bass;421;2001;Sid Richardson Gasoline Co;USA;1,2
+Frederick Field;421;2001;Marshall Field and Company;USA;1,2
+Harold Lenfest;421;2001;Lenfest Communications;USA;1,2
+Herbert Siegel;421;2001;BHC Communications;USA;1,2
+Jaime Augusto Zobel de Ayala;421;2001;Ayala Corporation;PHL;1,2
+John Fredriksen;421;2001;Frontline Ltd.;NOR;1,2
+John Krehbiel Jr;421;2001;Molex Incorporated;USA;1,2
+John Marriott Jr;421;2001;Marriot;USA;1,2
+Jon Stryker;421;2001;Stryker Corporation;USA;1,2
+Joseph Jamail Jr;421;2001;;USA;1,2
+Kunio Busujima;421;2001;Sankyo;JPN;1,2
+Lee Seng Wee;421;2001;Oversea-Chinese Banking Corporation;SGP;1,2
+Lucio Tan;421;2001;Asia Brewery;PHL;1,2
+Marc Rich;421;2001;Glencore;CHE;1,2
+Marguerite Harbert;421;2001;Harbart Corporation;USA;1,2
+Mortimer Zuckerman;421;2001;Boston Properties;USA;1,2
+Peter Nicholas;421;2001;Boston Scientific;USA;1,2
+Renato Soru;421;2001;Tiscali;ITA;1,2
+Richard Scaife;421;2001;Mellon;USA;1,2
+Robert Ziff;421;2001;Ziff Davis Inc;USA;1,2
+Ron and Fred Mannix;421;2001;Mancal Group;CAN;1,2
+Socrates Kokkalis;421;2001;Intracom;GRC;1,2
+Sydell Miller;421;2001;Matrix;USA;1,2
+Thaksin Shinawatra;421;2001;Advanced Info Service;THA;1,2
+Winthrop Rockefeller;421;2001;Standard Oil;USA;1,2
+Steven Spielberg;422;1996;DreamWorks;USA;1
+Carl Pohlad;423;1996;Marquette Bank;USA;1
+Vanich Chaiyawan;429;2014;Thai Life;THA;3,7
+David Shaw;430;2014;D.E. Shaw & Co;USA;3,6
+God Nisanov;430;2014;Kiyevskaya Ploshad;RUS;3,6
+Ian & Richard Livingstone;430;2014;London & Regional Properties;GBR;3,6
+J. Christopher Reyes;430;2014;Reyes Holdings;USA;3,6
+Jan Kulczyk;430;2014;Kulczyk Investments;POL;3,6
+Jerry Speyer;430;2014;Tishman Speyer;USA;3,6
+Jude Reyes;430;2014;Reyes Holdings;USA;3,6
+Maria-Elisabeth Schaeffler;430;2014;Schaeffler Group;DEU;3,6
+Michael Platt;430;2014;BlueCrest Capital Management;GBR;3,6
+Reid Hoffman;430;2014;LinkedIn;USA;3,6
+Sheldon Solow;430;2014;Solow Building Company;USA;3,6
+Steven Rales;430;2014;Danaher;USA;3,6
+Steven Udvar-Hazy;430;2014;International Lease Finance Corporation;USA;3,6
+Zarakh Iliev;430;2014;;RUS;3,6
+Zhang Shiping;430;2014;China Hongqiao;CHN;3,6
+Adi Godrej;446;2014;Godrej Group;IND;3,5
+Andreas Struengmann;446;2014;Hexal AG;DEU;3,5
+Bernard Marcus;446;2014;Home Depot;USA;3,5
+Evan Williams;446;2014;Twitter;USA;3,5
+George Bishop;446;2014;GeoSouthern;USA;3,5
+H. Ross Perot, Sr.;446;2014;Electronic Data Systems;USA;3,5
+Jamshyd Godrej;446;2014;Godrej Group;IND;3,5
+Keiichiro Takahara;446;2014;Unicharm;JPN;3,5
+Leon G. Cooperman;446;2014;Omega Advisors;USA;3,5
+Lorenzo Mendoza;446;2014;Empresas Polar;VEN;3,5
+Lu Guanqiu;446;2014;Wanxiang Group;CHN;3,5
+Masatoshi Ito;446;2014;Ito-Yokado;JPN;3,5
+Prince Sultan bin Mohammed bin Saud Al Kabeer;446;2014;Almarai;SAU;3,5
+Rosa Anna Magno Garavoglia;446;2014;Gruppo Campari;ITA;3,5
+Sri Prakash Lohia;446;2014;Indorama Corporation;IDN;3,5
+Thomas Struengmann;446;2014;Hexal AG;DEU;3,5
+Yvonne Bauer;446;2014;Bauer Media Group;DEU;3,5
+Zygmunt Solorz-Zak;446;2014;Polsat;POL;3,5
+Albert Ueltschi;452;2001;FlightSafety International;USA;1,1
+Arthur Rock;452;2001;Davis & Rock;USA;1,1
+Barry Lam;452;2001;Quanta Computer;Taiwan;1,1
+Bruce McCaw;452;2001;McCaw Cellular;USA;1,1
+Charlotte Colket Weber;452;2001;Campbell Soup;USA;1,1
+Christopher Goldsbury;452;2001;Pace Foods;USA;1,1
+David Murdock;452;2001;Dole Food Company;USA;1,1
+Edward Rogers;452;2001;Rogers Communications;CAN;1,1
+Francesco Gaetano Caltagirone;452;2001;Caltagirone Holdings;ITA;1,1
+Harrison McCain;452;2001;McCain Foods Limited;CAN;1,1
+Henry Fok;452;2001;Sociedade de Turismo e Divers?es de Macau;HKG;1,1
+Ikuo Ogihara;452;2001;Kyorin Pharmaceutical;JPN;1,1
+J Joseph Ricketts;452;2001;TD Ameritrade;USA;1,1
+Jean Coutu;452;2001;Jean Coutu Group;CAN;1,1
+John Abele;452;2001;Boston Scientific;USA;1,1
+John McCaw;452;2001;McCaw Cellular;USA;1,1
+Kagemasa Kozuki;452;2001;Konami;JPN;1,1
+Keith McCaw;452;2001;McCaw Cellular;USA;1,1
+Kenkichi Nakajima;452;2001;Heiwa;JPN;1,1
+Marco Tronchetti Provera;452;2001;Pirelli Group;ITA;1,1
+Mary Anselmo;452;2001;PanAmSat;USA;1,1
+Patricia Short;452;2001;;USA;1,1
+Patrick Ryan;452;2001;Aon Corporation;USA;1,1
+Peter Woo;452;2001;Worldwide Shipping Group;HKG;1,1
+Quek Leng Chan;452;2001;Hong Leong Financial Group;MYS;1,1
+Robert Dedman;452;2001;ClubCorp;USA;1,1
+Robert McLane;452;2001;McLane Company;USA;1,1
+Ronda Stryker;452;2001;Stryker Corporation;USA;1,1
+Roy Disney;452;2001;Disney;USA;1,1
+Sidney Kimmel;452;2001;Jones Apparel Group;USA;1,1
+Stanley Ho;452;2001;Sociedade de Turismo e Divers?es de Macau;HKG;1,1
+Thomas Flatley;452;2001;The Flatley Co;USA;1,1
+Victor Fung;452;2001;Li & Fung Group;HKG;1,1
+Viktor Chernomyrdin;452;2001;Gazprom;RUS;1,1
+Viscount Rothermere;452;2001;Associated Newspapers;GBR;1,1
+Walter Scott Jr;452;2001;Piewit Corporation;USA;1,1
+William Cook;452;2001;Cook Group;USA;1,1
+William Fung;452;2001;Li & Fung Group;HKG;1,1
+Andrei Guriev;466;2014;Apatit;RUS;3,4
+Chung Eui-Sun;466;2014;Hyundai;KOR;3,4
+Daniela Herz;466;2014;Maxingvest AG;DEU;3,4
+Edward Roski, Jr.;466;2014;Majestic Realty Co.;USA;3,4
+Fredrik Lundberg;466;2014;LE Lundbergforetagen AB;SWE;3,4
+Haim Saban;466;2014;Saban Entertainment;USA;3,4
+Han Chang-Woo;466;2014;Maruhan;JPN;3,4
+Jim Davis;466;2014;New Balance;USA;3,4
+John Doerr;466;2014;Kleinter Perkins Caufield & Byers;USA;3,4
+John Gandel;466;2014;Chadstone Shopping Center;AUS;3,4
+Lin Yu-lin;466;2014;Hong Tai Group;Taiwan;3,4
+Rafael Del Pino y Calvo-Sotelo;466;2014;Ferrovial;ESP;3,4
+Ronda Stryker;466;2014;Stryker Corporation;USA;3,4
+Steven Spielberg;466;2014;DreamWorks;USA;3,4
+Sun Guangxin;466;2014;Xinjiang Guanghui Industry Investment Group;CHN;3,4
+Tamara Gustavson;466;2014;Public Storage;USA;3,4
+Wolfgang Marguerre;466;2014;Octapharma;DEU;3,4
+Aloysio de Andrade Faria;483;2014;Banco Real;BRA;3,3
+Antti Herlin;483;2014;Kone Corporation;FIN;3,3
+Clayton Riddell;483;2014;Paramount Resources;CAN;3,3
+Daryl Katz;483;2014;Katz Group;CAN;3,3
+David Consunji;483;2014;DMCI;PHL;3,3
+Doris Fisher;483;2014;The Gap;USA;3,3
+Francis Choi;483;2014;Early Light International;HKG;3,3
+Fu Liquan;483;2014;Zhejiang Dahua Technology;CHN;3,3
+Israel Englander;483;2014;Millennium Management LLC;USA;3,3
+Jean Pierre Cayard;483;2014;La Martiniquaise;FRA;3,3
+Marc Benioff;483;2014;salesforce.com;USA;3,3
+Matthias Reimann-Andersen;483;2014;Benckiser;DEU;3,3
+Mikhail Gutseriev;483;2014;Russneft;RUS;3,3
+Otto Happel;483;2014;GEA Group;DEU;3,3
+Phillip Frost;483;2014;Opko Health;USA;3,3
+Renate Reimann-Haas;483;2014;Benckiser;DEU;3,3
+Renzo Rosso;483;2014;Diesel;ITA;3,3
+Samuel Yin;483;2014;Ruentex Group;Taiwan;3,3
+Sarik Tara;483;2014;Enka insaat ve Sanayi;TUR;3,3
+Stefan Reimann-Andersen;483;2014;Benckiser;DEU;3,3
+Stephan Schmidheiny;483;2014;Holcim;CHE;3,3
+Terrence Pegula;483;2014;East Resources;USA;3,3
+Wolfgang Reimann;483;2014;Benckiser;DEU;3,3
+Albert Frere;490;2001;Groupe Bruxelles Lambert;BEL;1
+Alberto Vilar;490;2001;Amerindo Investment Advisors;USA;1
+Alicia Koplowitz;490;2001;Construcciones y Contratas;ESP;1
+Amalia Lacroze de Fortabat;490;2001;Loma Negra;ARG;1
+Ananda Krishnan;490;2001;Usaha Tegas Sdn Bhd;MYS;1
+Antonia Johnson;490;2001;Axel Johnson Group;SWE;1
+Barry Diller;490;2001;IAC ;USA;1
+Belmiro de Azevedo;490;2001;Sonae SGPS;PRT;1
+Benjamin de Rothschild;490;2001;Edmond de Rothschild Group;CHE;1
+Bruce Kovner;490;2001;Caxton Associates;USA;1
+Charles Simonyi;490;2001;Microsoft;USA;1
+Chey Tae-Won;490;2001;SK Corporation;KOR;1
+David Filo;490;2001;Yahoo!;USA;1
+Dean White;490;2001;Whiteco Industries;USA;1
+Donald Schneider;490;2001;Schneider National;USA;1
+Dorrance Hill Hamilton;490;2001;Campbell Soup;USA;1
+Ernestina Herrera de Noble;490;2001;Grupo Clarin;ARG;1
+Esther Koplowitz;490;2001;Construcciones y Contratas;ESP;1
+Frank Levinson;490;2001;Finisar;USA;1
+Gabriel Escarrer;490;2001;Melia Hotels International;ESP;1
+George Ying Chow Lien;490;2001;Overseas Chinese Union Bank;SGP;1
+Gerald Cadogan;490;2001;Cadogan Estates;GBR;1
+German Larrea Mota Velasco;490;2001;Grupo Mexio;MEX;1
+Hope Hill Van Beuren;490;2001;Campbell Soup;USA;1
+Jacob and Yehudith Richter;490;2001;Medinol;ISR;1
+Jacques Servier;490;2001;Laboratories Servier;FRA;1
+James France;490;2001;NASCAR;USA;1
+Jerome Kohlberg;490;2001;Kohberg Kravis Roberts & Co;USA;1
+Jerry Yang;490;2001;Yahoo!;USA;1
+John Doerr;490;2001;Kleinter Perkins Caufield & Byers;USA;1
+John Todd;490;2001;Todd Energy;NZL;1
+Julian Robertson;490;2001;Tiger Management Corp;USA;1
+Lee Hon Chiu;490;2001;Hysan Development;HKG;1
+Malcolm Green Chace III;490;2001;First Allied Corporation;USA;1
+Mark Dixon;490;2001;Regus;GBR;1
+Michael Lee-Chin;490;2001;Otto Group;CAN;1
+Norman Waitt;490;2001;Gateway;USA;1
+Onsi Sawiris;490;2001;Orascom;EGY;1
+Pincus Green;490;2001;Glencore;CHE;1
+Scott Kriens;490;2001;Juniper Networks;USA;1
+Sheldon Adelson;490;2001;Las Vegas Sands;USA;1
+Shoji Uehara;490;2001;Taisho Pharmaceutical;JPN;1
+Thomas Bailey;490;2001;Janus Capital Group;USA;1
+Toichi Takenaka;490;2001;Takenaka Corporation;JPN;1
+Tom Gores;490;2001;Platinum Equity;USA;1
+Vinod Khosla;490;2001;Sun Microsystems;USA;1
+Wee Cho Yaw;490;2001;United Overseas Bank;SGP;1
+William France Jr;490;2001;NASCAR;USA;1
+William Hearst III;490;2001;Hearst Corporation;USA;1
+Austen Cargill, II.;506;2014;Cargill;USA;3,2
+Christoffel Wiese;506;2014;Shoprite;ZAF;3,2
+Desh Bandhu Gupta;506;2014;Lupin Limited;IND;3,2
+Frederick Smith;506;2014;FedEx;USA;3,2
+George Lindemann;506;2014;Vision Cable, Metro Mobile, Southern Union;USA;3,2
+Gianluigi Aponte;506;2014;MSC;CHE;3,2
+Heidi Horten;506;2014;Horten AG;AUT;3,2
+Issad Rebrab;506;2014;CEVITAL;DZA;3,2
+James Cargill, II.;506;2014;Cargill;USA;3,2
+Julian Robertson, Jr.;506;2014;Tiger Management Corp;USA;3,2
+Liu Yonghao;506;2014;New Hope Group;CHN;3,2
+Lu Xiangyang;506;2014;BYD;CHN;3,2
+Marianne Liebmann;506;2014;Cargill;USA;3,2
+Rafaela Aponte;506;2014;MSC;CHE;3,2
+Spiro Latsis;506;2014;EFG International;GRC;3,2
+Victor Pinchuk;506;2014;Interpipe;UKR;3,2
+Alexander Svetakov;520;2014;Absolut;RUS;3,1
+Andre Esteves;520;2014;BTG Pactual;BRA;3,1
+Anthony Pritzker;520;2014;Hyatt;USA;3,1
+Antonio Ermirio de Moraes;520;2014;Votorantim Group;BRA;3,1
+Archie Aldis Emmerson;520;2014;Sierra Pacific Industries;USA;3,1
+Daniel D'Aniello;520;2014;Carlyle Group;USA;3,1
+David Azrieli;520;2014;Azrieli Group;CAN;3,1
+David Rubenstein;520;2014;Carlyle Group;USA;3,1
+Eddie & Sol Zakay;520;2014;Topland Group;GBR;3,1
+Ermirio Pereira de Moraes;520;2014;Votorantim Group;BRA;3,1
+Hans Peter Wild;520;2014;?Rudolf WILD GmbH & Co. KG;DEU;3,1
+Isaac Perlmutter;520;2014;Marvel Entertainment;USA;3,1
+James Jannard;520;2014;Oakley, Inc;USA;3,1
+Jay Robert (J.B.) Pritzker;520;2014;Hyatt;USA;3,1
+Jeremy Jacobs, Sr.;520;2014;Delaware North Companies;USA;3,1
+Judy Faulkner;520;2014;Epic Systems;USA;3,1
+Maria Helena Moraes Scripilliti;520;2014;Votorantim Group;BRA;3,1
+Mohamed Mansour;520;2014;Mansour Group;EGY;3,1
+Mohammed Al Issa;520;2014;Savola Group;SAU;3,1
+Najib Mikati;520;2014;Investcom;LBN;3,1
+Peter Kellogg;520;2014;Spear, Leeds & Kellogg;USA;3,1
+Roger Wang;520;2014;Golden Eagle International Group;USA;3,1
+Shi Yuzhu;520;2014;Giant Interactive;CHN;3,1
+Stanley Druckenmiller;520;2014;Duquesne Capital;USA;3,1
+Stelios Haji-Ioannou;520;2014;Easy Jet;CYP;3,1
+Syed Mokhtar AlBukhary;520;2014;MMC Corp./DRBHicom;MYS;3,1
+Taha Mikati;520;2014;Investcom;LBN;3,1
+Theo Mueller;520;2014;Muller;DEU;3,1
+Wang Yung-Tsai;520;2014;Formosa Plastics;Taiwan;3,1
+William Conway, Jr.;520;2014;Carlyle Group;USA;3,1
+Yitzhak Tshuva;520;2014;El-Ad Group;ISR;3,1
+Alexander Nesis;551;2014;ICT Group;RUS;3
+Amos Hostetter, Jr.;551;2014;Continental Cablevision;USA;3
+Anthony Pratt;551;2014;Pratt Industries/Visy Industries;AUS;3
+Brian Acton;551;2014;WhatsApp;USA;3
+Edward Lampert;551;2014;ESL Investment;USA;3
+Fred DeLuca;551;2014;Subway;USA;3
+Friedhelm Loh;551;2014;Loh Group;DEU;3
+H. Fisk Johnson;551;2014;S. C. Johnson & Son;USA;3
+Harry Stine;551;2014;The Stine Seed Group;USA;3
+Helen Johnson-Leipold;551;2014;S. C. Johnson & Son;USA;3
+Husnu Ozyegin;551;2014;FIBA Holding;TUR;3
+Imogene Powers Johnson;551;2014;S. C. Johnson & Son;USA;3
+James Leprino;551;2014;Leprino Foods;USA;3
+Jerry Jones;551;2014;Jones Oil and Land Lease;USA;3
+John Catsimatidis;551;2014;Gristedes Foods;USA;3
+John Paul DeJoria;551;2014;John Paul Mitchell Systems/Patron Spirits Company;USA;3
+Kerr Neilson;551;2014;Platinum Asset Management;AUS;3
+Kushal Pal Singh;551;2014;DLF Limited;IND;3
+Lawrence Ho;551;2014;Sociedade de Turismo e Divers?es de Macau, SA;HKG;3
+Lu Zhiqiang;551;2014;Oceanwide Group of Beijing;CHN;3
+Michel Leclercq;551;2014;Oxylane;FRA;3
+Paul Ramsay;551;2014;Ramsay Health Care;AUS;3
+Peter Buck;551;2014;Subway;USA;3
+Robert Rich, Jr.;551;2014;Rich Products Corporation;USA;3
+S. Curtis Johnson;551;2014;S. C. Johnson & Son;USA;3
+Samuel Tak Lee;551;2014;Prudential Enterprise;HKG;3
+Tang Yiu;551;2014;Belle Holdings;HKG;3
+Wang Yusuo;551;2014;ENN Energy Group;CHN;3
+Winnie Johnson-Marquart;551;2014;S. C. Johnson & Son;USA;3
+Anil Agarwal;580;2014;Vedanta Resources;IND;2,9
+Carlo Benetton;580;2014;Benetton Group;ITA;2,9
+David Filo;580;2014;Yahoo!;USA;2,9
+David Rockefeller, Sr.;580;2014;Standard Oil;USA;2,9
+Do Won Chang;580;2014;Forever 21;USA;2,9
+Farhad Moshiri;580;2014;Metalloinvest;GBR;2,9
+Fernando Roberto Moreira Salles;580;2014;Unibanco;BRA;2,9
+Gilberto Benetton;580;2014;Benetton Group;ITA;2,9
+Giuliana Benetton;580;2014;Benetton Group;ITA;2,9
+Herbert Louis;580;2014;S. C. Johnson & Son;USA;2,9
+Igor Olenicoff;580;2014;Olen Properties;USA;2,9
+Jaime Gilinski Bacal;580;2014;Gilinski Group;COL;2,9
+Jin Sook Chang;580;2014;Forever 21;USA;2,9
+Joao Moreira Salles;580;2014;Unibanco;BRA;2,9
+John Arnold;580;2014;Centaurus Advisors;USA;2,9
+John Fisher;580;2014;The Gap;USA;2,9
+Josephine Louis;580;2014;S. C. Johnson & Son;USA;2,9
+Joshua Harris;580;2014;Apollo Group Management;USA;2,9
+Luciano Benetton;580;2014;Benetton Group;ITA;2,9
+Magdalena Martullo-Blocher;580;2014;EMS-Chemie;CHE;2,9
+Marc Rowan;580;2014;Apollo Group Management;USA;2,9
+Michael Pieper;580;2014;Artemis Goup;CHE;2,9
+Michael Ying;580;2014;Esprit Holdings Limited;HKG;2,9
+Oprah Winfrey;580;2014;Harpo Productions;USA;2,9
+Pedro Moreira Salles;580;2014;Unibanco;BRA;2,9
+Rahel Blocher;580;2014;EMS-Chemie;CHE;2,9
+Robert Kraft;580;2014;International Forest Products;USA;2,9
+Thomas Pritzker;580;2014;Hyatt;USA;2,9
+Tom Gores;580;2014;Platinum Equity;USA;2,9
+Walter Scott, Jr.;580;2014;Piewit Corporation;USA;2,9
+Walther Moreira Salles Junior;580;2014;Unibanco;BRA;2,9
+Abilio dos Santos Diniz;609;2014;Companhia Brasileira de Distribui?ao;BRA;2,8
+Alexandra Schorghuber;609;2014;Schorghuber Group;DEU;2,8
+Alexandre Soares dos Santos;609;2014;Jeronimo Martins;PRT;2,8
+Alfred Taubman;609;2014;Taubman Centers;USA;2,8
+Angela Leong;609;2014;Sociedade de Turismo e Divers?es de Macau, SA;HKG;2,8
+Bernard Broermann;609;2014;Asklepios Kliniken GmbH;DEU;2,8
+Chee Chen Tung;609;2014;Orient Overseas Container Line;HKG;2,8
+Dirk Rossmann;609;2014;Rossmann;DEU;2,8
+Edward DeBartolo, Jr.;609;2014;Edward J. DeBartolo Corporation;USA;2,8
+Erman Ilicak;609;2014;Ronesans Construction;TUR;2,8
+Gautam Adani;609;2014;Adani Group;IND;2,8
+Huang Rulun;609;2014;Century Golden Resources Group;CHN;2,8
+Joan Tisch;609;2014;Loews Corporation;USA;2,8
+John Caudwell;609;2014;Midland Mobile Phones;GBR;2,8
+Krit Ratanarak;609;2014;Bank of Ayudhya/Bangkok Broadcasting and Television Company;THA;2,8
+Leandro Rizzuto;609;2014;Conair;USA;2,8
+Mary Alice Dorrance Malone;609;2014;Campbell Soup;USA;2,8
+Masahiro Miki;609;2014;ABC-Mart;JPN;2,8
+Michael & Rainer Schmidt-Ruthenbeck;609;2014;Metro AG;DEU;2,8
+Michael Moritz;609;2014;Sequoia Capital;USA;2,8
+Naguib Sawiris;609;2014;Orascom;EGY;2,8
+Othman Benjelloun;609;2014;RMA Watanya;MAR;2,8
+Peter Sondakh;609;2014;Golden Eagle Energy;IDN;2,8
+Philippe Foriel-Destezet;609;2014;Adecco;FRA;2,8
+Robert Bass;609;2014;Sid Richardson Gasoline Co;USA;2,8
+Saif Al Ghurair;609;2014;Al-Ghurair Group;ARE;2,8
+Suh Kyung-Bae;609;2014;AmorePacific;KOR;2,8
+Viktor Rashnikov;609;2014;Magnitogorsk Metallurgical Enterprise;RUS;2,8
+W. Herbert Hunt;609;2014;Petro-Hunt;USA;2,8
+Wilbur Ross, Jr.;609;2014;WL Ross & Co;USA;2,8
+Yang Kai;609;2014;China Huishan Dairy Holding;CHN;2,8
+Ziyad Manasir;609;2014;Stroygazconsulting;RUS;2,8
+Richard Chandler;641;2014;Chandler Corporation;NZL;2,8
+Dagmar Dolby;642;2014;Dolby Laboratories;USA;2,7
+David Bonderman;642;2014;TPG Capital;USA;2,7
+Elaine Wynn;642;2014;Wynn Resorts (formarly Mirage Resorts);USA;2,7
+Eva Maria Bucher-Haefner;642;2014;CA Technologies;CHE;2,7
+Hanni Toosbuy Kasprzak;642;2014;ECCO;DEN;2,7
+Jean-Michel Besnier;642;2014;Lactalis;FRA;2,7
+Jeff Sutton;642;2014;Wharton Properties;USA;2,7
+Johan Johannson;642;2014;Joh. Johannson;NOR;2,7
+Law Kar Po;642;2014;Park Hotel Group;HKG;2,7
+Liu Qiangdong;642;2014;JD.com;CHN;2,7
+Marie Besnier Beauvalot;642;2014;Lactalis;FRA;2,7
+Michael Rubin;642;2014;Kynetic/GSI;USA;2,7
+Miguel Krigsner;642;2014;O Botic?rio;BRA;2,7
+Patrice Motsepe;642;2014;African Rainbow Minerals;ZAF;2,7
+Qiu Guanghe;642;2014;Zhejiang Semir Garment;CHN;2,7
+Robert Pera;642;2014;Ubiquiti Networks;USA;2,7
+Ron Burkle;642;2014;Yucaipa Companies;USA;2,7
+Tong Jinquan;642;2014;Summit;CHN;2,7
+Ye Chenghai;642;2014;Shenzhen Salubris Pharmaceuticals;HKG;2,7
+Yeoh Tiong Lay;642;2014;YTL Corporation;MYS;2,7
+A. Jerrold Perenchio;663;2014;Univision;USA;2,6
+Anita Zucker;663;2014;Hudson's Bay Company;USA;2,6
+Cristina Green;663;2014;Arcadia;GBR;2,6
+Daniel Mate;663;2014;Glencore Xstrata;ESP;2,6
+Danil Khachaturov;663;2014;Rosgosstrakh;RUS;2,6
+Edson de Godoy Bueno;663;2014;Amil;BRA;2,6
+Emilio Azcarraga Jean;663;2014;Grupo Televisa;MEX;2,6
+Helmut Sohmen;663;2014;BW Group;AUT;2,6
+Herbert Allen, Jr.;663;2014;Allen & Company;USA;2,6
+Hui Lin Chit;663;2014;Hengan Internationl Group Company Limited;CHN;2,6
+Jason Chang;663;2014;Advanced Semiconductor Engineering;SGP;2,6
+Maria Luisa Solari Falabella;663;2014;SACI Falabella;CHL;2,6
+Mark Cuban;663;2014;Broadcast.com;USA;2,6
+Martin Viessmann;663;2014;Viessmann Group;DEU;2,6
+Pan Zhengmin;663;2014;AAC Technologies;CHN;2,6
+Patrick Lee;663;2014;Lee & Man Paper Manufacturing;HKG;2,6
+Philip Green;663;2014;Arcadia;GBR;2,6
+Reinhold Schmieding;663;2014;Arthrex Inc;USA;2,6
+Richard Rainwater;663;2014;ENSCO International;USA;2,6
+Sean Parker;663;2014;Napster, Plaxo, Airtime;USA;2,6
+Sze Man Bok;663;2014;Hengan Internationl Group Company Limited;CHN;2,6
+Torbjorn Tornqvist;663;2014;Gunvor Group;SWE;2,6
+Ty Warner;663;2014;Ty Inc.;USA;2,6
+Vasily Anisimov;663;2014;Metalloinvest/Coalco;RUS;2,6
+Vladimir Bogdanov;663;2014;Surgutneftegaz;RUS;2,6
+Yasumitsu Shigeta;663;2014;Hikari Tsushin;JPN;2,6
+Abdulla Al Futtaim;687;2014;Al-Futtaim Group;ARE;2,5
+Aristotelis Mistakidis;687;2014;Glencore Xstrata;GRC;2,5
+Belmiro de Azevedo;687;2014;Sonae SGPS;PRT;2,5
+Bernardo Matte;687;2014;CMPC;CHL;2,5
+Bernd Freier;687;2014;s.Oliver;DEU;2,5
+Charles Dunstone;687;2014;The Carphone Warehouse;GBR;2,5
+Chey Tae-Won;687;2014;SK Corporation;KOR;2,5
+Clive Calder;687;2014;Zomba Group;GBR;2,5
+Dan Friedkin;687;2014;Gulf States Toyota Distributors;USA;2,5
+Dan Gertler;687;2014;DGI Group;ISR;2,5
+David Cheriton;687;2014;Google;CAN;2,5
+Eduardo Belmont Anderson;687;2014;Belcorp;PER;2,5
+Eliodoro Matte;687;2014;CMPC;CHL;2,5
+Ennio Doris;687;2014;Mediolanum SpA;ITA;2,5
+Folorunsho Alakija;687;2014;Famfa Limited;NGA;2,5
+Francisco Jose Riberas Mera;687;2014;Corporation Gestamp SL;ESP;2,5
+H. Wayne Huizenga;687;2014;Waste Management;USA;2,5
+Henry Hillman;687;2014;Pittsburgh Coke & Chemical;USA;2,5
+Hubert Burda;687;2014;Hubert Burda Media;DEU;2,5
+Jack Dangermond;687;2014;Environmental Systems Research Institute;USA;2,5
+Jeff Greene;687;2014;;USA;2,5
+John Dorrance, III.;687;2014;Campbell Soup;IRL;2,5
+Juan Maria Riberas Mera;687;2014;Corporation Gestamp SL;ESP;2,5
+Juan-Miguel Villar Mir;687;2014;Obrascon Huarte Lain S.A.;ESP;2,5
+Kjell Inge Rokke;687;2014;Aker Soulutions ASA;NOR;2,5
+Madeleine Olsson Ericksson;687;2014;Stena Sphere;SWE;2,5
+Michael Milken;687;2014;Drexel Burnham Lambert;USA;2,5
+Min Kao;687;2014;Garmin;USA;2,5
+Mochtar Riady;687;2014;Lippo Group;IDN;2,5
+Neil Bluhm;687;2014;JMB Realty;USA;2,5
+Pang Kang;687;2014;Foshan Haitian Flavoring and Food;CHN;2,5
+Patricia Matte;687;2014;CMPC;CHL;2,5
+Philip Niarchos;687;2014;Niarchos Ltd;GRC;2,5
+Phillip Ruffin;687;2014;New Frontier Hotel and Casino;USA;2,5
+Shigenobu Nagamori;687;2014;Nidec;JPN;2,5
+Siegfried Meister;687;2014;Rational AG;DEU;2,5
+Stefan Olsson;687;2014;Stena Sphere;SWE;2,5
+Teddy Sagi;687;2014;Playtech;ISR;2,5
+Timothy Headington;687;2014;Headington Oil;USA;2,5
+Valery Kogan;687;2014;East Line Group;RUS;2,5
+Warren Stephens;687;2014;Stephans Inc.;USA;2,5
+William Erbey;687;2014;Ocwen Financial;USA;2,5
+William Fung;687;2014;Li & Fung Group;HKG;2,5
+William Wrigley, Jr.;687;2014;Wm Wrigley Jr. Company;USA;2,5
+Abdullah Al Rajhi;731;2014;Al Rajhi bank;SAU;2,4
+Andrej Babis;731;2014;Agrofert;CZE;2,4
+Barry Diller;731;2014;IAC ;USA;2,4
+Bharat Desai;731;2014;Syntel;USA;2,4
+Brijmohan Lall Munjal;731;2014;Hero Group;IND;2,4
+Carlos Ardila Lulle;731;2014;Organizacion Ardila Lulle;COL;2,4
+Edwin Leong;731;2014;Tai Hung Fai Enterprise;HKG;2,4
+Esther Grether;731;2014;Doetsch Grether;CHE;2,4
+George Argyros;731;2014;Arnel & Affiliates;USA;2,4
+Henry Fong Yun Wah;731;2014;Hip Shing Hong Group;HKG;2,4
+Ingeburg Herz;731;2014;Maxingvest AG;DEU;2,4
+Juan Abello;731;2014;Abello Laboratories;ESP;2,4
+Ken Fisher;731;2014;Fisher Investments;USA;2,4
+Kevin Plank;731;2014;Under Armour;USA;2,4
+Kwek Leng Beng;731;2014;Hong Leong Group;SGP;2,4
+Lawrence Stroll;731;2014;Michael Kors;CAN;2,4
+Leszek Czarnecki;731;2014;Getin Holding;POL;2,4
+Liang Yunchao;731;2014;Guangdong By-Health Biotechnology;CHN;2,4
+Louis Le Duff;731;2014;Brioche Doree;FRA;2,4
+Ma Jianrong;731;2014;Shenzhou International;CHN;2,4
+Maja Oeri;731;2014;Roche;CHE;2,4
+Manuel Jove;731;2014;Fadesa;ESP;2,4
+Mortimer Zuckerman;731;2014;Boston Properties;USA;2,4
+Onsi Sawiris;731;2014;Orascom;EGY;2,4
+Pankaj Patel;731;2014;Cadila Healthcare;IND;2,4
+Richard Desmond;731;2014;Northern & Shell;GBR;2,4
+Rodney Lewis;731;2014;Lewis Energy;USA;2,4
+Saleh Kamel;731;2014;Dallah al Baraka Group;SAU;2,4
+Sebastian Pinera;731;2014;Bancard;CHL;2,4
+Silas Chou;731;2014;Michael Kors;HKG;2,4
+Stephen Lansdown;731;2014;Hargreaves Lansdown;GGY;2,4
+Tilman Fertitta;731;2014;Landry's Restaurant;USA;2,4
+Peter Lim;763;2014;Wilmar International;SGP;2,4
+Alexander Mamut;764;2014;Livejournal;RUS;2,3
+Alexander Ponomarenko;764;2014;NCSP Group;RUS;2,3
+Alexander Skorobogatko;764;2014;NCSP Group;RUS;2,3
+Bernard Saul, II.;764;2014;B. F. Saul Company;USA;2,3
+Bill Gross;764;2014;PIMCO;USA;2,3
+Cai Kui;764;2014;Longfor Properties;CHN;2,3
+Caprotti Bernardo;764;2014;Esselunga;ITA;2,3
+Chen Fashu;764;2014;Zijin Mining Group;CHN;2,3
+Clemmie Spangler, Jr.;764;2014;Bank of North Carolina;USA;2,3
+David Murdock;764;2014;Dole Food Company;USA;2,3
+George Ty;764;2014;Metropolitan Bank and Trust Company;PHL;2,3
+Henadiy Boholyubov;764;2014;Privatbank;UKR;2,3
+Indu Jain;764;2014;Bennett, Coleman & Co Ltd.;IND;2,3
+James France;764;2014;NASCAR;USA;2,3
+Jean (Gigi) Pritzker;764;2014;Hyatt;USA;2,3
+Jean Claude Gandur;764;2014;Addax Petroleum;CHE;2,3
+Jia Yueting;764;2014;Leshi Television;CHN;2,3
+John Whittaker;764;2014;The Peel Group;GBR;2,3
+Julio Ponce;764;2014;Quimica y Minera de Chile;CHL;2,3
+Kenneth Langone;764;2014;Home Depot;USA;2,3
+Kuok Khoon Hong;764;2014;Wilmar International;SGP;2,3
+Mario Moretti Polegato;764;2014;Geox;ITA;2,3
+Michal Solowow;764;2014;Synthos;POL;2,3
+Penny Pritzker;764;2014;Hyatt;USA;2,3
+Richard Marriott;764;2014;Marriot;USA;2,3
+Robert Miller CA;764;2014;Future Electronics;CAN;2,3
+Stanley Hubbard;764;2014;Hubbard Broadcasting Inc;USA;2,3
+Victor Fung;764;2014;Li & Fung Group;USA;2,3
+Wang Changtian;764;2014;Beijing Enlight;CHN;2,3
+Xu Jingren;764;2014;Yangtze River Pharmaceutical Group;CHN;2,3
+Xue Xiangdong;764;2014;DHC Software;CHN;2,3
+Youssef Mansour;764;2014;Mansour Group;EGY;2,3
+Andreas Halvorsen;796;2014;Viking Global Equities;NOR;2,2
+Bahaa Hariri;796;2014;Saudi Oger;LBN;2,2
+Bill Marriott, Jr.;796;2014;Marriot;USA;2,2
+Bulat Utemuratov;796;2014;ATF Bank;KAZ;2,2
+Chip Wilson;796;2014;Lululemon Athletica;CAN;2,2
+Daniel Loeb;796;2014;Third Point LLC;USA;2,2
+Giuseppe De'Longhi;796;2014;De'Longhi Group;ITA;2,2
+Jack Dorsey;796;2014;Twitter;USA;2,2
+Jean Coutu;796;2014;Jean Coutu Group;CAN;2,2
+Jiang Rensheng;796;2014;Chongqing Zhifei Biological Products;CHN;2,2
+Joe Mansueto;796;2014;Morningstar, Inc;USA;2,2
+John de Mol;796;2014;Endemol;NLD;2,2
+Kalanithi Maran;796;2014;Sun Group;IND;2,2
+Lindsay Fox;796;2014;Linfox;AUS;2,2
+Manuel Lao Hernandez;796;2014;Cirsa;ESP;2,2
+Mark Coombs;796;2014;Ashmore Group;GBR;2,2
+Martin Haefner;796;2014;CA Technologies;CHE;2,2
+Martin Naughton;796;2014;Glen Dimplex Group;IRL;2,2
+Moise Safra;796;2014;Banco Safra (now Saftra Group);BRA;2,2
+Nadhmi Auchi;796;2014;General Mediterranean Holding;GBR;2,2
+Naruatsu Baba;796;2014;Colopl;JPN;2,2
+Peter Thiel;796;2014;PayPal;USA;2,2
+Regina de Camargo Pires Oliveira Dias;796;2014;Grupo Camargo Correra;BRA;2,2
+Renata de Camargo Nascimento;796;2014;Grupo Camargo Correra;BRA;2,2
+Richard Peery;796;2014;;USA;2,2
+Romesh T. Wadhwani;796;2014;Symphony Technology Group;USA;2,2
+Rossana Camargo de Arruda Botelho;796;2014;Grupo Camargo Correra;BRA;2,2
+Semahat Arsel;796;2014;Koc Holding;TUR;2,2
+Stephen Bisciotti;796;2014;Allegis Group;USA;2,2
+Ted Turner;796;2014;CNN;USA;2,2
+Tor Peterson;796;2014;Glencore Xstrata;USA;2,2
+Goh Cheng Liang;827;2014;Nipsea;SGP;2,2
+Alexander Dzhaparidze;828;2014;Petroalliance;RUS;2,1
+Alexander Knaster;828;2014;Pamplona Capital Management;USA;2,1
+Alicia Koplowitz;828;2014;Construcciones y Contratas;ESP;2,1
+Antonio Luiz Seabra;828;2014;Natura Cosmeticos;BRA;2,1
+B. Wayne Hughes;828;2014;Public Storage;USA;2,1
+Charles Bronfman;828;2014;Seagrams;CAN;2,1
+David Hains;828;2014;Portland House Group;AUS;2,1
+David Penaloza Sandoval;828;2014;Pinfra;MEX;2,1
+Edward Bass;828;2014;Sid Richardson Gasoline Co;USA;2,1
+Ferit Sahenk;828;2014;Dogus Holding;TUR;2,1
+Gerald J. Ford;828;2014;Golden State Bancorp;USA;2,1
+Helena Revoredo;828;2014;Prosegur;ESP;2,1
+Howard Schultz;828;2014;Starbucks;USA;2,1
+Igor Makarov;828;2014;Itera;RUS;2,1
+Ihor Kolomoyskyy;828;2014;Privatbank;UKR;2,1
+James Coulter;828;2014;TPG Capital;USA;2,1
+Jerry Yang;828;2014;Yahoo!;USA;2,1
+Johnelle Hunt;828;2014;J.B. Hunt Transport Services;USA;2,1
+Lee Bass;828;2014;Sid Richardson Gasoline Co;USA;2,1
+Liu Zhongtian;828;2014;Zhongwang Holdings;CHN;2,1
+Malvinder and Shivinder Singh;828;2014;Ranbaxy Laboratories;IND;2,1
+Michael Jaharis;828;2014;Kos Pharmaceuticals;USA;2,1
+Mustafa Rahmi Koc;828;2014;Koc Holding;TUR;2,1
+N. Murray Edwards;828;2014;Canadian Natural Resources;CAN;2,1
+Raj Kumar & Kishin RK;828;2014;Royal Holdings/RB Capital;SGP;2,1
+Reinfried Pohl;828;2014;Deutsche Verm?gensberatung?;DEU;2,1
+Richard Schulze;828;2014;Best Buy;USA;2,1
+Sandro Veronesi;828;2014;Calzedonia Group;ITA;2,1
+Stephen Mandel, Jr.;828;2014;Lone Pine Capital;USA;2,1
+Sukanto Tanoto;828;2014;Royal Golden Eagle International;IDN;2,1
+Sylvia Stroher;828;2014;Wella AG;DEU;2,1
+T.Y. Tsai;828;2014;Cathay Financial;Taiwan;2,1
+Taizo Son;828;2014;GungHo Online Entertainment;JPN;2,1
+Thomas Bruch;828;2014;Globus & Co.;DEU;2,1
+Tom Golisano;828;2014;Paychex;USA;2,1
+Vincent Lo;828;2014;Shui On Group;HKG;2,1
+Zhang Li;828;2014;Guangzho R&F;CHN;2,1
+Zhou Hongyi;828;2014;Qihoo;CHN;2,1
+Zhu Gongshan;828;2014;GCL-Poly Energy Holdings;CHN;2,1
+Herbert Simon;868;2014;Simon Property Group;USA;2,1
+Alec Gores;869;2014;The Gores Group;USA;2
+Alexei Ananyev;869;2014;Technoserv;RUS;2
+Arne Wilhelmsen;869;2014;Royal Caribbean Cruises;NOR;2
+Bachtiar Karim;869;2014;Musim Mas;IDN;2
+Benjamin de Rothschild;869;2014;Edmond de Rothschild Group;CHE;2
+Bennett Dorrance;869;2014;Campbell Soup;USA;2
+Brad Kelley;869;2014;Commonwealth Brands;USA;2
+Bruce Karsh;869;2014;Oaktree Capital Management;USA;2
+Cai Dongqing;869;2014;Guangdong Alpha Animation and Culture Co;CHN;2
+Carl Bennet;869;2014;Carl Bennet AB;SWE;2
+Carlo Fidani;869;2014;Orlando Corp;CAN;2
+Carlos Hank Rhon;869;2014;Grupo Financiero Interacciones;MEX;2
+Catherine Lozick;869;2014;Swagelok;USA;2
+Chanchai Ruayrungruang;869;2014;Reignwood Group;CHN;2
+Clayton Mathile;869;2014;Iams;USA;2
+Daniel Pritzker;869;2014;Hyatt;USA;2
+Dean White;869;2014;Whiteco Industries;USA;2
+Dermot Desmond;869;2014;International Investment and Underwriting;IRL;2
+Dmitry Ananyev;869;2014;Technoserv;RUS;2
+Dmitry Pumpyansky;869;2014;TMK Pipes;RUS;2
+Drayton McLane, Jr.;869;2014;McLane Company;USA;2
+Erwin Franz Mueller;869;2014;Mueller;DEU;2
+Fiona Geminder;869;2014;Visy Industries;AUS;2
+Florentino Perez;869;2014;Actividades de Construccion y Servicios;ESP;2
+Georg von Opel;869;2014;Opel;DEU;2
+Gordon Getty;869;2014;Getty ;USA;2
+Guy Laliberte;869;2014;Cirque du Soleil;CAN;2
+Heloise Waislitz;869;2014;Visy Industries;AUS;2
+Howard Marks;869;2014;Oaktree Capital Management;USA;2
+James Dinan;869;2014;York Capital management;USA;2
+Jim Breyer;869;2014;Breyer Capital;USA;2
+John Farber;869;2014;ICC Industries;USA;2
+John Pritzker;869;2014;Hyatt;USA;2
+Jorge Perez;869;2014;The Related Companies;USA;2
+Jose and Francisco Jose Calderon Rojas;869;2014;FEMSA;MEX;2
+Li Sze Lim;869;2014;Guangzho R&F;HKG;2
+Matt & Dan Walsh;869;2014;Walsh Group;USA;2
+Meg Whitman;869;2014;Hewlett-Packard;USA;2
+Nicolas Berggruen;869;2014;Alpha Investment Management;USA;2
+Nicolas Puech;869;2014;Hermes;FRA;2
+Noam Gottesman;869;2014;GLG Partners;USA;2
+Or Wai Sheun;869;2014;Kowloon Development;HKG;2
+Robert Fisher;869;2014;The Gap;USA;2
+Robert McNair;869;2014;Cogen Technologies;USA;2
+Ron Baron;869;2014;Baron Capital Group;USA;2
+Roustam Tariko;869;2014;Russian Standard Vodka;RUS;2
+Sam Goi;869;2014;Tee Yih Jia Food Manufacturing;SGP;2
+Shen Guojun;869;2014;Intime Retail;CHN;2
+Shin Chang-Jae;869;2014;Kyobo Life Insurance;KOR;2
+Sit Kwong Lam;869;2014;Shenzhen Brightoil Group;HKG;2
+Sun Weijie;869;2014;Yantai Jereh Oilfield Services Group;CHN;2
+Thomas Siebel;869;2014;Siebel Systems;USA;2
+Tsai Hong-tu;869;2014;Cathay Life Insurance;Taiwan;2
+Vyacheslav Kantor;869;2014;Acron Group;RUS;2
+Wang Wenxue;869;2014;China Fortune Land Development;CHN;2
+William Fisher;869;2014;The Gap;USA;2
+Alex Beard;925;2014;Glencore Xstrata;GBR;2
+Henry Samueli;925;2014;Broadcom Corporation;USA;2
+Nevaldo Rocha;925;2014;Riachuelo;BRA;2
+S. Daniel Abraham;925;2014;Slim-Fast;USA;2
+Shin Dong-Bin;925;2014;Lotte Group;KOR;2
+Wu Yiling;925;2014;Yiling Pharmaceuticals;CHN;2
+Alvaro Saieh Bendeck;931;2014;Corpbanca;CHL;1,9
+Andrei Klyamko;931;2014;Smart-Holding;RUS;1,9
+Andrei Kozitsyn;931;2014;Urals mining and Metals Company;RUS;1,9
+Bob Parsons;931;2014;Go Daddy;USA;1,9
+Chandru Raheja;931;2014;K. Raheja Corp;IND;1,9
+Daniel Roullier;931;2014;Groupe Roullier;FRA;1,9
+David Gottesman;931;2014;First Manhattan;USA;1,9
+Donald Sterling;931;2014;Lesser Towers;USA;1,9
+Dulce Pugliese de Godoy Bueno;931;2014;Amil;BRA;1,9
+Eduardo Eurnekian;931;2014;Corporacion America;ARG;1,9
+Fayez Sarofim;931;2014;Fayez Sarofim & Co;USA;1,9
+Fritz Draexlmaier;931;2014;Draxlmaier Group;DEU;1,9
+Fu Meicheng;931;2014;Zhejiang Huace Film & TV;CHN;1,9
+Hans Melchers;931;2014;HAL Investments;NLD;1,9
+Ian Wood;931;2014;Wood Group;GBR;1,9
+John Arrillaga;931;2014;;USA;1,9
+John Kapoor;931;2014;INSYS Thereputics;USA;1,9
+Jonathan Harmsworth;931;2014;Associated Newspapers;GBR;1,9
+Lev Kvetnoi;931;2014;Vnukovo Airport;RUS;1,9
+Liao Long-Shing;931;2014;Chang Chun Group;Taiwan;1,9
+Lirio Parisotto;931;2014;Geracao Futuro L Par;BRA;1,9
+Michael Klein;931;2014;Casas Bahia;BRA;1,9
+Mikhail Balakin;931;2014;SU-155;RUS;1,9
+Miloud Chaabi;931;2014;Ynna Holding;MAR;1,9
+Mo Tianquan;931;2014;SouFun Holdings;CHN;1,9
+Mohamed Al Fayed;931;2014;House of Fraser;EGY;1,9
+Norman Braman;931;2014;Braman Enterprises;USA;1,9
+Pat Stryker;931;2014;Stryker Corporation;USA;1,9
+Richard Li;931;2014;Cheung Kong;HKG;1,9
+Robert Duggan;931;2014;Pharmacyclics;USA;1,9
+Ronald Southern;931;2014;ATCO;CAN;1,9
+Rubens Ometto Silveira Mello;931;2014;Cosan;BRA;1,9
+Sid Bass;931;2014;Sid Richardson Gasoline Co;USA;1,9
+Song Zuowen;931;2014;Nanshan Group;CHN;1,9
+Subhash Chandra;931;2014;Essel Group;IND;1,9
+Sulaiman Al Rajhi;931;2014;Al Rajhi bank;SAU;1,9
+Tseng Shin-Yi;931;2014;Chang Chun Group;Taiwan;1,9
+Wei Ing-Chou;931;2014;Tingyi;Taiwan;1,9
+Wei Yin-Chun;931;2014;Tingyi;Taiwan;1,9
+Wei Ying-Chiao;931;2014;Tingyi;Taiwan;1,9
+Wei Yin-Heng;931;2014;Tingyi;Taiwan;1,9
+Wolfgang Leitner;931;2014;Andritz AG;AUT;1,9
+Ajay Kalsi;973;2014;Indusgas;IND;1,9
+Ayman Asfari;973;2014;Petrofac;GBR;1,9
+Diego Della Valle;973;2014;Tod's;ITA;1,9
+Hans-Werner Hector;973;2014;SAP AG;DEU;1,9
+Kavitark Ram Shriram;973;2014;Google;USA;1,9
+Li Shufu;973;2014;Geely Automobile;CHN;1,9
+Li Zhongchu;973;2014;Beijing Shiji Information Technology;CHN;1,9
+Marc Ladreit de Lacharriere;973;2014;FIMALAC;FRA;1,9
+Mitchell Goldhar;973;2014;SmartCenters;CAN;1,9
+Rahul Bajaj;973;2014;Bajaj Group;IND;1,9
+Stewart Rahr;973;2014;Kinray Inc;USA;1,9
+Sun Piaoyang;973;2014;Jiangsu Hengrui Medicine;CHN;1,9
+Suna Kirac;973;2014;Koc Holding;TUR;1,9
+Tahir family;973;2014;Mayapada Group;IDN;1,9
+Theodore Rachmat;973;2014;Triputra Group;IDN;1,9
+Aras Agalarov;988;2014;Crocus International;RUS;1,8
+Arthur Blank;988;2014;Home Depot;USA;1,8
+Carlos Rodriguez-Pastor;988;2014;Interbank Group;PER;1,8
+Chao Teng-Hsiung;988;2014;Farglory Land;Taiwan;1,8
+Che Fengsheng;988;2014;Sihuan Pharmaceutical;CHN;1,8
+Chen Jinxia;988;2014;Hunan Yongjin Group;CHN;1,8
+Chu Lam Yiu;988;2014;Huabao International Holdings;HKG;1,8
+Craig McCaw;988;2014;McCaw Cellular;USA;1,8
+David Chow;988;2014;Macau Legend;MAC;1,8
+Dinara Kulibaeva;988;2014;Halyk Bank;KAZ;1,8
+Elisabeth Badinter;988;2014;Publicis Groupe;FRA;1,8
+Eric Lefkofsky;988;2014;Groupon;USA;1,8
+Filiz Sahenk;988;2014;Dogus Holding;TUR;1,8
+Gary Magness;988;2014;TCI;USA;1,8
+Gil Shwed;988;2014;Check Point;ISR;1,8
+Glen Taylor;988;2014;Taylor Corporation;USA;1,8
+Glenn Dubin;988;2014;Highbridge Capital Management;USA;1,8
+Guenther Lehmann;988;2014;Drogeriemarkt;DEU;1,8
+H. Ross Perot, Jr.;988;2014;Electronic Data Systems;USA;1,8
+Irwin Jacobs;988;2014;Qualcomm;USA;1,8
+Jaime Botin;988;2014;Banco Santander;ESP;1,8
+Jennifer Pritzker;988;2014;Hyatt;USA;1,8
+Jonathan Nelson;988;2014;Providence Equity Partners;USA;1,8
+Kenneth Feld;988;2014;Feld Entertainment;USA;1,8
+Lim Oon Kuin;988;2014;Hin Leong Trading;SGP;1,8
+Linda Pritzker;988;2014;Hyatt;USA;1,8
+Liu Baolin;988;2014;Jointown Pharmaceutical Group;CHN;1,8
+Lutz Mario Helmig;988;2014;Helios Hospital Group;DEU;1,8
+M.A. Yusuff Ali;988;2014;EMKE Group (Lulu Hypermarket);IND;1,8
+Neal Patterson;988;2014;Cerner Corporation;USA;1,8
+Nikolai Tsvetkov;988;2014;Financial Corporation Uralsib;RUS;1,8
+Polys Haji-Ioannou;988;2014;EasyJet;CYP;1,8
+Ravi Pillai;988;2014;RP Group;IND;1,8
+Rishad Naoroji;988;2014;Godrej Group;IND;1,8
+Roberto Hernandez Ramirez;988;2014;Banamex;MEX;1,8
+Ronald Wanek;988;2014;Ashley Furniture;USA;1,8
+Stanley Perron;988;2014;Hancock Prospecting;AUS;1,8
+Sunny Varkey;988;2014;GEMS Education;IND;1,8
+Susan Hirt Hagen;988;2014;Erie Indemnity;USA;1,8
+Thomas Meyer;988;2014;Desigual;CHE;1,8
+Timur Kulibaev;988;2014;Halyk Bank;KAZ;1,8
+Tiong Hiew King;988;2014;Rimbunan Hijau Group;MYS;1,8
+Tsai Cheng-da;988;2014;Cathay Life Insurance;Taiwan;1,8
+Wu Guangming;988;2014;Jiangsu Yuyue Medical Equipment and Supply;CHN;1,8
+Yasseen Mansour;988;2014;Mansour Group;EGY;1,8
+Yuri Milner;988;2014;Digital Sky Technologies (Mail.ru);RUS;1,8
+Zhang Zhirong;988;2014;China Rongsheng;HKG;1,8
+Zhu Xingliang;988;2014;Suzhou Gold Mantis;CHN;1,8
+Alain Bouchard;1036;2014;Alimentation Couche-Tard;CAN;1,8
+Bill Adderley;1036;2014;Dunelm;GBR;1,8
+David Nahmad;1036;2014;;MCO;1,8
+Gerald Schwartz;1036;2014;Onex Corporation;CAN;1,8
+Jayme Garfinkel;1036;2014;Porto Seguro Seguros;BRA;1,8
+John Brown;1036;2014;Stryker Corporation;USA;1,8
+Judy Love;1036;2014;Love's Travel Stops & Country Stores;USA;1,8
+Lynda Resnick;1036;2014;Teleflora, Pistachios, POM, Fij;USA;1,8
+Marian Ilitch;1036;2014;Little Ceasers Pizza;USA;1,8
+Michael Hintze;1036;2014;CQS;AUS;1,8
+Michael Ilitch;1036;2014;Little Ceasers Pizza;USA;1,8
+Murdaya Poo;1036;2014;Central Cipta Murdaya;IDN;1,8
+Prasert Prasarttong-Osoth;1036;2014;Bangkok Dusit Medical Services;THA;1,8
+Shin Dong-Joo;1036;2014;Lotte Group;KOR;1,8
+Stewart Resnick;1036;2014;Teleflora, Pistachios, POM, Fij;USA;1,8
+Tom Love;1036;2014;Love's Travel Stops & Country Stores;USA;1,8
+Alexander Machkevich;1046;2014;Eurasion natural Resources Corporation;ISR;1,7
+Alijan Ibragimov;1046;2014;Eurasion natural Resources Corporation;KAZ;1,7
+Andrei Kosogov;1046;2014;Alfa Group;RUS;1,7
+Arkady Volozh;1046;2014;Yandex;RUS;1,7
+Boris Rotenberg;1046;2014;SGM Group, Mostotrest, TPS Avia;RUS;1,7
+Chung Mong-Joon;1046;2014;Hyundai;KOR;1,7
+Gabriel Escarrer;1046;2014;Melia Hotels International;ESP;1,7
+Gavril Yushvaev;1046;2014;Wimm-Bill-Dann;RUS;1,7
+Huang Bingwen;1046;2014;Shantou Dongfeng Printing;AUS;1,7
+Huang Li;1046;2014;Wuhan Guide Infrared;CHN;1,7
+Huang Wei;1046;2014;Xinhu Zhongbao;CHN;1,7
+Igor Altushkin;1046;2014;Russian Copper Company;RUS;1,7
+Jeffrey Lorberbaum;1046;2014;Mohawk Industries;USA;1,7
+Joop van den Ende;1046;2014;Endemol;NLD;1,7
+Katsumi Tada;1046;2014;Daito Trust Construction;JPN;1,7
+Kerry Stokes;1046;2014;Seven Canberra;AUS;1,7
+Lee Joong-Keun;1046;2014;Booyoung Group;KOR;1,7
+Lee Myung-Hee;1046;2014;Shinsegae Group;KOR;1,7
+Lin Xiucheng;1046;2014;San'an Electronics;CHN;1,7
+Marc Lasry;1046;2014;Avenue Capital Group;USA;1,7
+Martua Sitorus;1046;2014;Wilmar International;IDN;1,7
+N.R. Narayana Murthy;1046;2014;Infosys;IND;1,7
+Patokh Chodiev;1046;2014;Eurasion natural Resources Corporation;BEL;1,7
+Peter Peterson;1046;2014;Blackstone Group;USA;1,7
+Pier Luigi Loro Piana;1046;2014;Loro Piana;ITA;1,7
+Ralph Sonnenberg;1046;2014;Hunter Douglas Group;NLD;1,7
+Rolf Gerling;1046;2014;Gerling Konzern;DEU;1,7
+Shao Genhuo;1046;2014;DBN Group;CHN;1,7
+Thomas Secunda;1046;2014;Bloomberg;USA;1,7
+Tony Tan Caktiong;1046;2014;Jollibee;PHL;1,7
+Wang Junmin;1046;2014;Haisco Pharmaceutical Group;CHN;1,7
+Zhang Hongwei;1046;2014;United Energy Group;CHN;1,7
+Alfred Oetker;1078;2014;Oetker-Gruppe;DEU;1,7
+August Oetker;1078;2014;Oetker-Gruppe;DEU;1,7
+Bergit Douglas;1078;2014;Oetker-Gruppe;DEU;1,7
+Carl Ferdinand Oetker;1078;2014;Oetker-Gruppe;DEU;1,7
+Christian Oetker;1078;2014;Oetker-Gruppe;DEU;1,7
+Domenico Dolce;1078;2014;Dolce & Gabbana;ITA;1,7
+Edgar de Picciotto;1078;2014;Union Bancaire Privee;CHE;1,7
+Hoang Kieu;1078;2014;RAAS;USA;1,7
+Julia Oetker;1078;2014;Oetker-Gruppe;DEU;1,7
+Nelson Peltz;1078;2014;Trian Fund Management;USA;1,7
+Richard Oetker;1078;2014;Oetker-Gruppe;DEU;1,7
+Rosely Schweizer;1078;2014;Oetker-Gruppe;DEU;1,7
+Stefano Gabbana;1078;2014;Dolce & Gabbana;ITA;1,7
+Vladimir Kim;1078;2014;Kazkhmys;KAZ;1,7
+Achmad Hamami;1092;2014;Trakindo Utama;IDN;1,6
+Alan Howard;1092;2014;Brevan Howard Asset Management;GBR;1,6
+Albert von Thurn und Taxis;1092;2014;von Thurn and Taxis family;DEU;1,6
+Alfred James Clark;1092;2014;Clark Enterprises;USA;1,6
+Andrea Della Valle;1092;2014;Tod's;ITA;1,6
+Cao Kejian;1092;2014;Zhejiang Kaishan Compressor;CHN;1,6
+Chase Coleman, III.;1092;2014;Tiger Global Management;USA;1,6
+D. Leopoldo Del Pino y Calvo-Sotelo;1092;2014;Ferrovial;ESP;1,6
+David Einhorn;1092;2014;Greenlight Capital;USA;1,6
+Denise Coates;1092;2014;Bet365;GBR;1,6
+Don Hankey;1092;2014;Hankey Group;USA;1,6
+Gao Dekang;1092;2014;Bosideng International;CHN;1,6
+Gary Burrell;1092;2014;Garmin;USA;1,6
+Gu Wei;1092;2014;Shenzhen MTC;CHN;1,6
+Hamilton James;1092;2014;Blackstone Group;USA;1,6
+Huang Shaowu;1092;2014;Shenzhen Aisidi;CHN;1,6
+James Irsay;1092;2014;Indianapolis Colts;USA;1,6
+Jim Justice, II.;1092;2014;Bluestone Industries;USA;1,6
+Joe Jamail, Jr.;1092;2014;;USA;1,6
+Jon Stryker;1092;2014;Stryker Corporation;USA;1,6
+Joyce Raley Teel;1092;2014;Raley's;USA;1,6
+Julio Bozano;1092;2014;Banco Bozano Simonsen;BRA;1,6
+Karel Komarek;1092;2014;KKCG Group;CZE;1,6
+Lee Jay-Hyun;1092;2014;CJ Group;KOR;1,6
+Liang Xinjun;1092;2014;Fosun Group;CHN;1,6
+Louis Bacon;1092;2014;Moore Capital Management;USA;1,6
+Mangal Prabhat Lodha;1092;2014;Lodha Group;IND;1,6
+Mario Gabelli;1092;2014;Gabelli Asset Management Company;USA;1,6
+Mehmet Sinan Tara;1092;2014;Enka insaat ve Sanayi;TUR;1,6
+Patrick Ryan;1092;2014;Aon Corporation;USA;1,6
+Pham Nhat Vuong;1092;2014;Vingroup;VNM;1,6
+Phillip Ragon;1092;2014;InterSystems;USA;1,6
+Pierre Papillaud;1092;2014;Roxane;FRA;1,6
+Pollyanna Chu;1092;2014;Kingston Financial;HKG;1,6
+Ray Davis;1092;2014;Energy Transfer Partners;USA;1,6
+Richard Elman;1092;2014;Noble Group;GBR;1,6
+Robert Miller UK;1092;2014;Duty Free Shopping;GBR;1,6
+Roberto Angelini Rossi;1092;2014;Angelini Group;CHL;1,6
+Scott Cook;1092;2014;Intuit;USA;1,6
+Simonpietro Salini;1092;2014;Salini Impregilo;ITA;1,6
+Stephen Jarislowsky;1092;2014;Jarislowsky Fraser Limited;CAN;1,6
+Suhon Lin;1092;2014;Chang Chun Group;Taiwan;1,6
+Thaksin Shinawatra;1092;2014;Advanced Info Service;THA;1,6
+Tsai Ming-Kai;1092;2014;MediaTek;Taiwan;1,6
+Venugopal Dhoot;1092;2014;Videocon Electronics;IND;1,6
+Vincent Tan;1092;2014;Berjaya Corporation Berhad;MYS;1,6
+Wen Jianping;1092;2014;Beijing Originwater Technology;CHN;1,6
+Wong Luen Hei;1092;2014;China Lesso Group;CHN;1,6
+Yoshikazu Tanaka;1092;2014;GREE, Inc;JPN;1,6
+Yuri Gushchin;1092;2014;Obyedinennye Konditery;RUS;1,6
+Zhou Chengjian;1092;2014;Metersbonwe Group;CHN;1,6
+Ahsen Ozokur;1143;2014;Yildiz Holding;TUR;1,6
+Ali Ibrahim Agaoglu;1143;2014;Agaoglu Group;TUR;1,6
+Ana Maria Brescia Cafferata;1143;2014;Grupo Prescia (now Pandora Group);PER;1,6
+Ana Maria Marcondes Penido Sant'Anna;1143;2014;CCR Group;BRA;1,6
+Benu Gopal Bangur;1143;2014;Shree Cement;IND;1,6
+Cesar Mata Pires;1143;2014;OAS SA;BRA;1,6
+Christoph Henkel;1143;2014;Henkel Ag;DEU;1,6
+Manuel Moroun;1143;2014;CenTra Inc.;USA;1,6
+Rosa Brescia Cafferata;1143;2014;Grupo Prescia (now Pandora Group);PER;1,6
+Thomas Steyer;1143;2014;Farallon Capital Management;USA;1,6
+Wong Kwong Yu;1143;2014;Gome;CHN;1,6
+Alexander Frolov;1154;2014;Evraz;RUS;1,5
+Alexandre Grendene Bartelle;1154;2014;Grendene;BRA;1,5
+Alfredo Harp Helu;1154;2014;Banamex;MEX;1,5
+Andrei Bokarev;1154;2014;CJSC Transmashholding;RUS;1,5
+Bulent Eczacibasi;1154;2014;Eczacibasi Holding;TUR;1,5
+Chang Yung Fa;1154;2014;Evergreen Group;Taiwan;1,5
+Chen Tianqiao;1154;2014;Shanda Interactive Entertainment;CHN;1,5
+Chen Yung-Tai;1154;2014;Aurora Group;Taiwan;1,5
+Dan Wilks;1154;2014;Frac Tech;USA;1,5
+Erika Pohl-Stroher;1154;2014;Wella AG;DEU;1,5
+Ezra Nahmad;1154;2014;;MCO;1,5
+Farris Wilks;1154;2014;Frac Tech;USA;1,5
+Faruk Eczacibasi;1154;2014;Eczacibasi Holding;TUR;1,5
+Francesco Gaetano Caltagirone;1154;2014;Caltagirone Holdings;ITA;1,5
+Gary Michelson;1154;2014;Medtronic;USA;1,5
+Gregorio Perez Companc;1154;2014;Petrolera Perez Companc;ARG;1,5
+He Qiaonu;1154;2014;Beijing Orient Landscape;CHN;1,5
+Horst Brandstaetter;1154;2014;Brandstatter Group;DEU;1,5
+Huang Shih Tsai;1154;2014;Greater China International Investment Group;HKG;1,5
+Jimmy Haslam;1154;2014;Pilot Flying J;USA;1,5
+John Henry;1154;2014;John W. Henry & Company;USA;1,5
+Jose Llado Fernandez-Urrutia;1154;2014;Tecnicas Reunidas;ESP;1,5
+Juan Carlos Escotet;1154;2014;Banesco;VEN;1,5
+Koo Bon-Moo;1154;2014;LG Group;KOR;1,5
+Lam Kong;1154;2014;China Medical Systems;CHN;1,5
+Maria Del Pino y Calvo-Sotelo;1154;2014;Ferrovial;ESP;1,5
+Marie-Jeanne Meyer;1154;2014;Louis-Dreyfus Goup;FRA;1,5
+Mark Stevens;1154;2014;Sequoia Capital;USA;1,5
+Massimo Moratti;1154;2014;Saras SPA;ITA;1,5
+Mehmet Karamehmet;1154;2014;Cukurova Holding;TUR;1,5
+Mehmet Nazif Gunal;1154;2014;MNG Holding;TUR;1,5
+Monique Louis-Dreyfus;1154;2014;Louis-Dreyfus Goup;FRA;1,5
+Murali Divi;1154;2014;Divis Laboratories;IND;1,5
+Paul Singer;1154;2014;Elliott Associates;USA;1,5
+Ravi Jaipuria;1154;2014;RJ Corp;IND;1,5
+Richard Hayne;1154;2014;Urban Outfitters;USA;1,5
+Robert Coyiuto Jr;1154;2014;Prudential Guarantee & Assurance;PHL;1,5
+Saad Hariri;1154;2014;Saudi Oger;LBN;1,5
+Senapathy Gopalakrishnan;1154;2014;Infosys;IND;1,5
+Sergio Lins Andrade;1154;2014;Andrade Gutierrez;BRA;1,5
+Thomas Lee;1154;2014;Thomas H. Lee Partners;USA;1,5
+Tom Benson;1154;2014;Benson Financial;USA;1,5
+Vadim Novinsky;1154;2014;Smart-Holding;UKR;1,5
+Vichai Srivaddhanaprabha;1154;2014;King Power Duty Free;THA;1,5
+Victor Gradin;1154;2014;Odebrecht;BRA;1,5
+Vinod Khosla;1154;2014;Sun Microsystems;USA;1,5
+Wen Yibo;1154;2014;The Sound Group;CHN;1,5
+Yuriy Kosiuk;1154;2014;MHP;UKR;1,5
+Zhu Yicai;1154;2014;Yurun Food;CHN;1,5
+Ajay Piramal;1203;2014;Piramel;IND;1,5
+Isidoro Alvarez;1203;2014;El Corte Ingles;ESP;1,5
+Richard Scaife;1203;2014;Mellon;USA;1,5
+Sergei Katsiev;1203;2014;Megapolis;RUS;1,5
+William Ackman;1203;2014;Pershing Square Capital Management;USA;1,5
+Wilma Tisch;1203;2014;Loews Corporation;USA;1,5
+Zhang Changhong;1203;2014;DZH/Shanghai Great Wisdom;CHN;1,5
+Alan Gerry;1210;2014;Cablevision Industries;USA;1,4
+Albert Blokker;1210;2014;Blokker Holding;BEL;1,4
+Alberto Cortina;1210;2014;Construcciones y Contratas;ESP;1,4
+Anatoly Lomakin;1210;2014;International Potassium Company (MMK);RUS;1,4
+Aziz Akhannouch;1210;2014;Akwa Group;MAR;1,4
+Billy Joe (Red) McCombs;1210;2014;Red McCombs Automotive Group;USA;1,4
+Chen Jianhua;1210;2014;Hengli Group;CHN;1,4
+Christopher Cline;1210;2014;Foresight Reserves;USA;1,4
+Christopher Goldsbury;1210;2014;Pace Foods;USA;1,4
+Clement Fayat;1210;2014;Fayat;FRA;1,4
+David Walentas;1210;2014;Dumbo;USA;1,4
+Dmitry Kamenshchik;1210;2014;Moscow Domodedovo Airport.;RUS;1,4
+Dmitry Mazepin;1210;2014;Uralchem;RUS;1,4
+Edmund Ansin;1210;2014;Sunbeam Television;USA;1,4
+Els Blokker;1210;2014;Blokker Holding;NLD;1,4
+Farkhad Akhmedov;1210;2014;Northgas;RUS;1,4
+Francesco Saverio Salini;1210;2014;Salini Impregilo;ITA;1,4
+Gian Marco Moratti;1210;2014;Saras SPA;ITA;1,4
+Gleb Fetisov;1210;2014;Alfa Group;RUS;1,4
+Hamdi Ulukaya;1210;2014;Chobani;TUR;1,4
+Hong Ra-Hee;1210;2014;Samsung;KOR;1,4
+J. Joe Ricketts;1210;2014;TD Ameritrade;USA;1,4
+James Clark;1210;2014;Netscape Communications Corporation;USA;1,4
+Joao Alves de Queiroz Filho;1210;2014;Hypermarcas;BRA;1,4
+Jonathan Gray;1210;2014;Blackstone Group;USA;1,4
+Kagemasa Kozuki;1210;2014;Konami Corporation;JPN;1,4
+Larry Robbins;1210;2014;Glenview Capital Management;USA;1,4
+Lei Jufang;1210;2014;Tibet Cheezheng Tibetan Medicine;CHN;1,4
+Len Ainsworth;1210;2014;Aristocrat Leisure Limited;AUS;1,4
+Lina Maria Aguiar;1210;2014;Bradesco;BRA;1,4
+Luis Enrique Yarur Rey;1210;2014;Banco de Credito e Inversiones (BCI);CHL;1,4
+Marius Nacht;1210;2014;Check Point;ISR;1,4
+Max Michel Suberville;1210;2014;FEMSA;MEX;1,4
+Michael Ashcroft;1210;2014;Michael A. Ashcroft Associates;GBR;1,4
+Michel Chalhoub;1210;2014;Chalhoub Group;FRA;1,4
+Nandan Nilekani;1210;2014;Infosys;IND;1,4
+Nicholas Pritzker, II.;1210;2014;Hyatt;USA;1,4
+Nicola Bulgari;1210;2014;Bulgari;ITA;1,4
+Oleg Tinkov;1210;2014;Tinkoff Brewery;RUS;1,4
+Paolo Bulgari;1210;2014;Bulgari;ITA;1,4
+Peter Gilgan;1210;2014;Mattamy Homes;CAN;1,4
+Peter Unger;1210;2014;Auto-Teile-Unger;DEU;1,4
+Petter Stordalen;1210;2014;Home Invest;NOR;1,4
+Pyotr Kondrashev;1210;2014;Silvinit;RUS;1,4
+Radovan Vitek;1210;2014;CPI;CZE;1,4
+Ranjan Pai;1210;2014;Manipal Education & Medical Group;IND;1,4
+Remo Ruffini;1210;2014;Moncler;ITA;1,4
+Richard Chilton Jr;1210;2014;Chilton Investment Company;USA;1,4
+Richard Yuengling, Jr.;1210;2014;Yuengling;USA;1,4
+Roman Avdeev;1210;2014;Credit Bank of Moscow;RUS;1,4
+Shlomo Eliahu;1210;2014;Eliyahu Insurance Company;ISR;1,4
+Takao Yasuda;1210;2014;Don Quijote;JPN;1,4
+Todd Wagner;1210;2014;Broadcast.com;USA;1,4
+Vladimir Iorich;1210;2014;Mechel AOA;DEU;1,4
+Vladimir Scherbakov;1210;2014;Avtotor Holding;RUS;1,4
+Wang Jing;1210;2014;Beijing Xinwei Telecom Technology;CHN;1,4
+Wang Kunxiao;1210;2014;Yantai Jereh Oilfield Services Group;CHN;1,4
+Xiong Xuqiang;1210;2014;Ningbo Yinyi Group;HKG;1,4
+Yoshiko Mori;1210;2014;Mori Building;JPN;1,4
+Yuri Kovalchuk;1210;2014;Russia bank;RUS;1,4
+Andrew Cherng;1270;2014;Panda Express;USA;1,4
+Anne Gittinger;1270;2014;Nordstrom;USA;1,4
+Anton Kathrein, Jr.;1270;2014;Katherine Werke AG;DEU;1,4
+Henry Swieca;1270;2014;Highbridge Capital Management;USA;1,4
+Jonathan Oringer;1270;2014;Shutterstock;USA;1,4
+Kazuo Okada;1270;2014;Wynn Resorts;JPN;1,4
+Keeree Kanjanapas;1270;2014;BTS Skytrain;THA;1,4
+Lee Hwa-Kyung;1270;2014;Orion Corp.;KOR;1,4
+Lin Li;1270;2014;Liye Group;CHN;1,4
+Mark Vadon;1270;2014;Zulily;USA;1,4
+Oleg Boyko;1270;2014;Finstar Financial Group;RUS;1,4
+Patricia Angelini Rossi;1270;2014;Angelini Group;CHL;1,4
+Paul Foster;1270;2014;Western Refining;USA;1,4
+Peggy Cherng;1270;2014;Panda Express;USA;1,4
+Roger Penske;1270;2014;Penske Racing;USA;1,4
+William Ford, Sr.;1270;2014;Ford Motor Company;USA;1,4
+Akio Nitori;1284;2014;Nitori;JPN;1,3
+Alain Taravella;1284;2014;Altarea Cogedim;FRA;1,3
+Allan Gray;1284;2014;Allan Gray;ZAF;1,3
+Allan Wong;1284;2014;VTech Holding;HKG;1,3
+Andrei Molchanov;1284;2014;Open Joint Stock Company;RUS;1,3
+Aneel Bhusri;1284;2014;Greylock Partners;USA;1,3
+Arturo Moreno;1284;2014;Outdoor Systems;USA;1,3
+Baba Kalyani;1284;2014;Bharat Forge;IND;1,3
+Bruce Cheng;1284;2014;Delta Electronics;Taiwan;1,3
+Bruce Nordstrom;1284;2014;Nordstrom;USA;1,3
+Brunello Cucinelli;1284;2014;Brunello Cucinelli;ITA;1,3
+C. Dean Metropoulos;1284;2014;Apollo Global management;USA;1,3
+Carlos Francisco Ribeiro Jereissati;1284;2014;Inguatemi Empresa de Shopping Centers;BRA;1,3
+Charles Simonyi;1284;2014;Microsoft;USA;1,3
+Charles Zegar;1284;2014;Bloomberg;USA;1,3
+Charlotte Colket Weber;1284;2014;Campbell Soup;USA;1,3
+Chen Bang;1284;2014;Air Eye Hospital Group;CHN;1,3
+Chu Mang Yee;1284;2014;Hopson Development;CHN;1,3
+Ciputra;1284;2014;Ciputra Development;IDN;1,3
+David Booth;1284;2014;Dimensional Fund Advisors;USA;1,3
+David Sainsbury;1284;2014;Sainsbury's;GBR;1,3
+Desmond Sacco;1284;2014;Assore Group;ZAF;1,3
+Du Jiangtao;1284;2014;Inner Mongolia Junzhen Energy and Chemical Industry;CHN;1,3
+Edward Stack;1284;2014;Dick's Sporting Goods;USA;1,3
+Eggon da Silva;1284;2014;WEG;BRA;1,3
+Elie Horn;1284;2014;Cyrela Brazil Realty;BRA;1,3
+Fawzi Al-Kharafi;1284;2014;Kharafi Group;KWT;1,3
+Frank Fertitta, III.;1284;2014;Station Casinos;USA;1,3
+Frank Stronach;1284;2014;Manga International;CAN;1,3
+George Joseph;1284;2014;Mercury General;USA;1,3
+Gernot Langes-Swarovski;1284;2014;Swarovski;AUT;1,3
+Henry Nicholas, III.;1284;2014;Broadcom Corporation;USA;1,3
+Jacques Saade;1284;2014;CMA CGM;FRA;1,3
+James Leininger;1284;2014;Kinetic Concepts (KCI);USA;1,3
+Jassim Al-Kharafi;1284;2014;Kharafi Group;KWT;1,3
+Jiang Zhaobai;1284;2014;Shanghai Pengxin Group;CHN;1,3
+Jorge Moll Filho;1284;2014;Rede D'Or;BRA;1,3
+Jose Isaac Peres;1284;2014;Multiplan;BRA;1,3
+Kenny Troutt;1284;2014;Excel Communications;USA;1,3
+Koos Bekker;1284;2014;Naspers;ZAF;1,3
+Lee Boo-Jin;1284;2014;Samsung;KOR;1,3
+Lee Man Tat;1284;2014;Lee Kum Kee;HKG;1,3
+Lev Leviev;1284;2014;Africa-Israel;ISR;1,3
+Lilian Werninghaus;1284;2014;WEG;BRA;1,3
+Lily Safra;1284;2014;Banco Safra (now Saftra Group);MCO;1,3
+Lorenzo Fertitta;1284;2014;Station Casinos;USA;1,3
+Low Tuck Kwong;1284;2014;Bayan Resources;IDN;1,3
+Michael Price;1284;2014;MFP Investors;USA;1,3
+Mohannad Al-Kharafi;1284;2014;Kharafi Group;KWT;1,3
+Mubariz Gurbanoglu;1284;2014;Palmali Group;TUR;1,3
+Mustafa Latif Topbas;1284;2014;BIM;TUR;1,3
+Ni Zhaoxing;1284;2014;Zhongrong Group;CHN;1,3
+Nicholas Woodman;1284;2014;GoPro;USA;1,3
+Perenna Kei;1284;2014;Logan Property Holdings;HKG;1,3
+Peter Sperling;1284;2014;Apollo Group;USA;1,3
+Petro Poroshenko;1284;2014;Roshen Gropu;UKR;1,3
+Reinold Geiger;1284;2014;L'Occitane;AUT;1,3
+Rufino Vigil Gonzalez;1284;2014;Industrias CH;MEX;1,3
+Samih Sawiris;1284;2014;Orascom;EGY;1,3
+Shaul Shani;1284;2014;ECI Telecom;ISR;1,3
+Sidney Kimmel;1284;2014;Jones Apparel Group;USA;1,3
+Stephen Saad;1284;2014;Aspen Pharmacare;ZAF;1,3
+Sun Pingfan;1284;2014;Ningbo Cixing;CHN;1,3
+Surin Upatkoon;1284;2014;InTouch;THA;1,3
+Thomas Sandell;1284;2014;Sandell Asset Management Corp;SWE;1,3
+Vadim Moshkovich;1284;2014;Rusagro;RUS;1,3
+Vladimir Gruzdev;1284;2014;The Seventh Continent;RUS;1,3
+Walter Frey;1284;2014;Emil Frey Group;CHE;1,3
+Wang Wenjing;1284;2014;Yonyou Software;CHN;1,3
+Werner Voigt;1284;2014;WEG;BRA;1,3
+Zelimkhan Mutsoev;1284;2014;Regions Group;RUS;1,3
+Kim Jung-Ju;1355;2014;Nexon;KOR;1,3
+Allan Slaight;1356;2014;Slaight Communications;CAN;1,3
+Anas Sefrioui;1356;2014;Douja Promotion Groupe Addoha;MAR;1,3
+Ashwin Dani;1356;2014;Asian Paints;IND;1,3
+Bassam Alghanim;1356;2014;Alghanim Industries;KWT;1,3
+Chen Lip Keong;1356;2014;NagaCorp;MYS;1,3
+Chung Yong-Jin;1356;2014;Shinsegae Group;KOR;1,3
+Daniel Harrison, III.;1356;2014;Shell Oil;USA;1,3
+David Harding;1356;2014;Winton Capital Management;GBR;1,3
+Huang Yi;1356;2014;Zhongsheng Group;HKG;1,3
+Hubert d'Ornano;1356;2014;Sisley Cosmetics;FRA;1,3
+Konstantin Grigorishin;1356;2014;Energy Standard Group;RUS;1,3
+Kutayba Alghanim;1356;2014;Alghanim Industries;KWT;1,3
+Seth Klarman;1356;2014;Baupost Group;USA;1,3
+Soichiro Fukutake;1356;2014;Benesse Corporation;JPN;1,3
+Wei Shaojun;1356;2014;Longjitaihe;CHN;1,3
+Yusaku Maezawa;1356;2014;Zozotown;JPN;1,3
+Abdulsamad Rabiu;1372;2014;BUA Group;NGA;1,2
+Ahmet Nazif Zorlu;1372;2014;Zorlu Holding;TUR;1,2
+Alberto Bombassei;1372;2014;Brembo SpA;ITA;1,2
+Alberto Roemmers;1372;2014;Laboratorios Roemmers;ARG;1,2
+Alexander Putilov;1372;2014;Eurasia Drilling Company;RUS;1,2
+Andrei Filatov;1372;2014;N-Trans;RUS;1,2
+Asok Kumar Hiranandani;1372;2014;Royal Group Holdings;SGP;1,2
+Ayman Hariri;1372;2014;Saudi Oger;LBN;1,2
+Benedicta Chamberlain;1372;2014;William Grant and Sons;GBR;1,2
+Brian Roberts;1372;2014;Comcast;USA;1,2
+Carol Jenkins Barnett;1372;2014;Publix Super Markets;USA;1,2
+Cho Tak Wong;1372;2014;Fuyao Glass Industry Group;HKG;1,2
+Cho Yang-Rai;1372;2014;Hankook Tire;KOR;1,2
+Claude Dauphin;1372;2014;Trafigura Beheer BV;FRA;1,2
+Dan Snyder;1372;2014;Snyder Communications;USA;1,2
+David Yakobashvili;1372;2014;Wimm-Bill-Dann;RUS;1,2
+Denise York;1372;2014;The DeBartolo Corporation;USA;1,2
+Donald Hall;1372;2014;Hallmark Cards;USA;1,2
+Dorothea Steinbruch;1372;2014;Vicuna Group;BRA;1,2
+Douglas Hsu;1372;2014;Far Eastern Group;Taiwan;1,2
+Drew Houston;1372;2014;Dropbox;USA;1,2
+Edwin Soeryadjaya;1372;2014;Astra International;IDN;1,2
+Fahd Hariri;1372;2014;Saudi Oger;LBN;1,2
+Gabe Newell;1372;2014;Valve Corporation;USA;1,2
+Gerry Harvey;1372;2014;Harvey Norman;AUS;1,2
+Gilles Martin;1372;2014;Eurofins Scientific;FRA;1,2
+Guilherme Peirao Leal;1372;2014;Natura Cosmeticos;BRA;1,2
+Hary Tanoesoedibjo;1372;2014;MNC Group;IDN;1,2
+Huang Wen Tsai;1372;2014;Star River Goup;CHN;1,2
+Ioan Niculae;1372;2014;InterAgro;ROU;1,2
+Jacky Xu;1372;2014;Trendy Internation Group;KNA;1,2
+Jacques Merceron-Vicat;1372;2014;Vicat;FRA;1,2
+James Ratcliffe;1372;2014;Ineos;GBR;1,2
+Jeff Rothschild;1372;2014;Facebook;USA;1,2
+Koh Wee Meng;1372;2014;Fragrance Group;SGP;1,2
+Konstantin Nikolaev;1372;2014;N-Trans;RUS;1,2
+Kostyantin Zhevago;1372;2014;Ferrexpo;UKR;1,2
+Lang Walker;1372;2014;The Walker Group;AUS;1,2
+Len Buckeridge;1372;2014;Buckeridge Group of Companies;AUS;1,2
+Leonid Simanovsky;1372;2014;Novatek;RUS;1,2
+Li Li;1372;2014;Shenzhen Hepalink Pharmaceutical;CHN;1,2
+Lia Maria Aguiar;1372;2014;Bradesco;BRA;1,2
+Liu Xuejing;1372;2014;GMK Holding;CHN;1,2
+Maria Ines de Lafuente Lacroze;1372;2014;Loma Negra;ARG;1,2
+Mark Dixon;1372;2014;Regus;GBR;1,2
+Michael Krasny;1372;2014;CDW Corporation;USA;1,2
+Mofatraj Munot;1372;2014;Kalpataru Group;IND;1,2
+Mohammed Al Barwani;1372;2014;MB Holding;OMN;1,2
+Mokhzani Mahathir;1372;2014;SapuraKencana;MYS;1,2
+Mori Arkin;1372;2014;Agis Industries;ISR;1,2
+Nan Cunhui;1372;2014;Chint Group;CHN;1,2
+Nikita Mishin;1372;2014;N-Trans;RUS;1,2
+Nikolai Maximov;1372;2014;Maxi Group;RUS;1,2
+Nirav Modi;1372;2014;Firestar International;IND;1,2
+Rakesh Jhunjhunwala;1372;2014;Lupin;IND;1,2
+Ron Sim;1372;2014;OSIM International;SGP;1,2
+Ronald Joyce;1372;2014;Tim Hortons;CAN;1,2
+Rubens Menin Teixeira de Souza;1372;2014;MRV Engenharia;BRA;1,2
+Steve Case;1372;2014;AOL;USA;1,2
+Suat Gunsel;1372;2014;Near East University;CYP;1,2
+Tian Ming;1372;2014;Hefei Meiya Optoelectronic Technology;CHN;1,2
+Tu Jianhua;1372;2014;Lancing Motor;CHN;1,2
+Vincent McMahon;1372;2014;World Wrestling Entertainment (WWE);USA;1,2
+William Macaulay;1372;2014;First Reserve Corporation;USA;1,2
+Wong Man Li;1372;2014;Man Wah Holdings;HKG;1,2
+Xiu Li Hawken;1372;2014;Renhe Commercial Holdings;GBR;1,2
+Yu Minhong;1372;2014;New Oriental Education and Technology Group;CHN;1,2
+Zhang Zhongneng;1372;2014;Guangdong Dongyangguang Aluminum;CHN;1,2
+Zhong Sheng Jian;1372;2014;Yanlord Land Group;SGP;1,2
+Ziyaudin Magomedov;1372;2014;Summa Group;RUS;1,2
+Alexei Bogachev;1442;2014;Magnit;RUS;1,2
+Alexei Semin;1442;2014;Obrazovanie;RUS;1,2
+Alfredo Egydio Arruda Villela Filho;1442;2014;Itausa Investimentos Itau SA;BRA;1,2
+Andrei Kuzyaev;1442;2014;Perm Financial Industrial Group (PFIG);RUS;1,2
+Brij Bhushan Singal;1442;2014;Bhushan Steel;IND;1,2
+Daisy Igel;1442;2014;Ultrapar;BRA;1,2
+Danny Tan Chee Sing;1442;2014;Dijaya;MYS;1,2
+Eduardo Hochschild;1442;2014;Hochschild Mining;PER;1,2
+Fernando Roig;1442;2014;Mercadona;ESP;1,2
+Jacob Stolt-Nielsen;1442;2014;Parcel Trade;NOR;1,2
+Jane Lauder;1442;2014;Est?Lauder;USA;1,2
+John Edson;1442;2014;Baylinter Marine Corp;USA;1,2
+Lee Hae-Jin;1442;2014;Naver;KOR;1,2
+Lee Seo-Hyun;1442;2014;Samsung;KOR;1,2
+Liu Zhenguo;1442;2014;Beijing Originwater Technology;CHN;1,2
+Ma Xingtian;1442;2014;Kangmei Pharmaceutical;CHN;1,2
+Max Turnauer;1442;2014;Constantia;AUT;1,2
+Megdet Rahimkulov;1442;2014;Gazprom;RUS;1,2
+Miao Shouliang;1442;2014;Fuyuan Group;CHN;1,2
+Mitchell Jacobson;1442;2014;MSC Direct;USA;1,2
+Qi Xiangdong;1442;2014;Qihoo;CHN;1,2
+Thongma Vijitpongpun;1442;2014;Pruksa Real Estate;THA;1,2
+Ye Cheng;1442;2014;Shandong Landbridge Group;CHN;1,2
+Aerin Lauder Zinterhofer;1465;2014;Est?Lauder;USA;1,1
+Ahmet Calik;1465;2014;Calik Holding;TUR;1,1
+Airat Shaimiev;1465;2014;TAIF Group;RUS;1,1
+Albert Shigaboutdinov;1465;2014;TAIF Group;RUS;1,1
+Albert Yeung;1465;2014;Emperor Group;HKG;1,1
+Alexander Rovt;1465;2014;IBE Trade;USA;1,1
+Alexander Spanos;1465;2014;A. G. Spanos Companies;USA;1,1
+Alfred Mann;1465;2014;Spectrolab;USA;1,1
+Aloke Lohia;1465;2014;Indorama Ventures;THA;1,1
+Ana Lucia de Mattos Barretto Villela;1465;2014;Itausa Investimentos Itau SA;BRA;1,1
+Anatoly Sedykh;1465;2014;United Metallurigcal Company;RUS;1,1
+Andrei Rappoport;1465;2014;RAO UES;RUS;1,1
+Aydin Dogan;1465;2014;Dogan Holding;TUR;1,1
+Binod Chaudhary;1465;2014;Chaudhary Group;NPL;1,1
+Charles Brandes;1465;2014;Brades Investment Partners;USA;1,1
+Charles Munger;1465;2014;Berkshire Hathaway;USA;1,1
+Choo Chong Ngen;1465;2014;Hotel 81;SGP;1,1
+Daniel Hirschfeld;1465;2014;Buckle;USA;1,1
+Darwin Deason;1465;2014;Affiliated Computer Services;USA;1,1
+Edir Macedo;1465;2014;Rede Record;BRA;1,1
+Evgeny (Eugene) Shvidler;1465;2014;Runicom S.A;USA;1,1
+Fang Wei;1465;2014;Fangda International Industrial Investment?;CHN;1,1
+Goh Peng Ooi;1465;2014;Silverlake Axis;MYS;1,1
+Gordon Wu;1465;2014;Hopewell Holdings;HKG;1,1
+Hajime Satomi;1465;2014;Sammy Corporation;JPN;1,1
+Harjo Sutanto;1465;2014;Wings Group;IDN;1,1
+Henry Engelhardt;1465;2014;Admiral Group;USA;1,1
+Hu Kaijun;1465;2014;China Grand Pharmaceutical;CHN;1,1
+Huang Zhenda;1465;2014;Guangdong Liantai Group;CHN;1,1
+Ilkka Herlin;1465;2014;Kone Corporation;FIN;1,1
+Ilona Herlin;1465;2014;Kone Corporation;FIN;1,1
+Isaac Larian;1465;2014;MGA Entertainment;USA;1,1
+Jean Burelle;1465;2014;Plastic Omnium;FRA;1,1
+Jiang Wei;1465;2014;Guizhou Bailing Group Pharmaceutical;CHN;1,1
+Jon Huntsman;1465;2014;Huntsman chemical;USA;1,1
+Jose Maria Aristrain;1465;2014;Arcelor;ESP;1,1
+Jose Mendes Nogueira;1465;2014;J Mendes;BRA;1,1
+Joseph Grendys;1465;2014;Koch Foods;USA;1,1
+Juan Fernando Belmont Anderson;1465;2014;Yanbal Internacional;PER;1,1
+Ke Xiping;1465;2014;Xiamen Hengxing group;CHN;1,1
+Koo Bon-Neung;1465;2014;LG Group;KOR;1,1
+Lachhman Das Mittal;1465;2014;Sonalika Group;IND;1,1
+Laurent Burelle;1465;2014;Plastic Omnium;FRA;1,1
+Liu Zhenfeng;1465;2014;Yantai Jereh Oilfield Services Group;CHN;1,1
+Luo Fei;1465;2014;Biostime International Holdings;CHN;1,1
+Marcel Adams;1465;2014;Iberville Developments;CAN;1,1
+Mark Pincus;1465;2014;Zynga;USA;1,1
+Michael Steinhardt;1465;2014;Steinhardt, Fine, Berkowitz & Co;USA;1,1
+Miriam Blocher;1465;2014;EMS-Chemie;CHE;1,1
+Mohammed Ibrahim;1465;2014;Celtel;GBR;1,1
+Niklas Herlin;1465;2014;Kone Corporation;FIN;1,1
+Nikolai Sarkisov;1465;2014;RESO-Garantiya;RUS;1,1
+Nobutada Saji;1465;2014;Suntory;JPN;1,1
+Park Hyeon-Joo;1465;2014;Mirae Asset;KOR;1,1
+PNC Menon;1465;2014;Sobha Developers;OMN;1,1
+Que Wenbin;1465;2014;Duyiwei Biological Pharmaceutical;CHN;1,1
+Radik Shaimiev;1465;2014;TAIF Group;RUS;1,1
+Ray Irani;1465;2014;Occidental Petroleum;USA;1,1
+Robert Citrone;1465;2014;Discovery Capital Management;USA;1,1
+Robert Ell;1465;2014;Leda Holdings;AUS;1,1
+Robert Piccinini;1465;2014;Save Mart;USA;1,1
+Rustem Sulteev;1465;2014;RESO-Garantiya;RUS;1,1
+Sergei Kislov;1465;2014;Yug Rusi;RUS;1,1
+Sergei Sarkisov;1465;2014;RESO-Garantiya;RUS;1,1
+Shen Wenrong;1465;2014;Shagang Group;CHN;1,1
+Solomon Lew;1465;2014;Premier Investments;AUS;1,1
+Stewart Horejsi;1465;2014;Berkshire Hathaway;USA;1,1
+Sudhir Ruparelia;1465;2014;Ruparelia Group;UGA;1,1
+Thomas Straumann;1465;2014;Straumann Group;CHE;1,1
+Timothy Boyle;1465;2014;Columbia Sportswear;USA;1,1
+Vito Rodriguez Rodriguez;1465;2014;Jose Rodriguez Banda;PER;1,1
+Yan Zhi;1465;2014;Zall Development of Wuhan;CHN;1,1
+Yusuf Hamied;1465;2014;Cipla;IND;1,1
+Zhang Guiping;1465;2014;Suning Universal;CHN;1,1
+Alan Rydge;1540;2014;AHL;AUS;1,1
+Chen Miaolin;1540;2014;New Century Group;CHN;1,1
+Chen Zemin;1540;2014;Sanquan Food;CHN;1,1
+Cheung Yan;1540;2014;Nine Dragons Paper;CHN;1,1
+Christopher Hohn;1540;2014;Children's Investment Fund;GBR;1,1
+Deniz Sahenk;1540;2014;Dogus Holding;TUR;1,1
+Douglas Perkins;1540;2014;Specsavers;USA;1,1
+Giancarlo Franceso Civita;1540;2014;Grupo Abril;BRA;1,1
+Hubert Palfinger;1540;2014;Palfinger AG;AUT;1,1
+Jose Ermirio de Moraes Neto;1540;2014;Votorantim Group;BRA;1,1
+Jose Roberto Ermirio de Moraes;1540;2014;Votorantim Group;BRA;1,1
+K Dinesh;1540;2014;Infosys;IND;1,1
+K. Rai Sahi;1540;2014;Morgaurd;CAN;1,1
+Kim Taek-Jin;1540;2014;NCSOFT;KOR;1,1
+Liu Gexin;1540;2014;Sichuan Kelun Pharmaceutical;CHN;1,1
+Liu Ming Chung;1540;2014;Nine Dragons Paper;BRA;1,1
+Mary Perkins;1540;2014;Specsavers;USA;1,1
+Neide Helena de Moraes;1540;2014;Votorantim Group;BRA;1,1
+Roberta Anamaria Civita;1540;2014;Grupo Abril;BRA;1,1
+Ryoichi Jinnai;1540;2014;Promise Consumer Finance;JPN;1,1
+Sheryl Sandberg;1540;2014;Facebook;USA;1,1
+Sun Hongbin;1540;2014;Sunac China Holdings;USA;1,1
+Victor Civita Neto;1540;2014;Grupo Abril;BRA;1,1
+Vikram Lal;1540;2014;Eicher Motors;IND;1,1
+Wang Laichun;1540;2014;Luxshare Precision Industry;CHN;1,1
+Wang Laisheng;1540;2014;Luxshare Precision Industry;CHN;1,1
+Yao Wenbin;1540;2014;Ourpalm;CHN;1,1
+Zadik Bino;1540;2014;Paz oil company;ISR;1,1
+Alberto Alcocer;1565;2014;Construcciones y Contratas;ESP;1
+Alexander Vik;1565;2014;Scandinavia Fund;NOR;1
+An Kang;1565;2014;Hualan Biological Engineering;CHN;1
+Andrea Reimann-Ciardelli;1565;2014;Benckiser;USA;1
+Andrew Gotianun;1565;2014;Filinvest Development Corporation;PHL;1
+Angela Bennett;1565;2014;Wright Prospecting;AUS;1
+Anne Beaufour;1565;2014;Ipsen;FRA;1
+B.R. Shetty;1565;2014;New Medical Centre;IND;1
+Bent Jensen;1565;2014;Linak;DEN;1
+Boris Mints;1565;2014;O1 Properties;RUS;1
+Brian Higgins;1565;2014;King Street Capital Management;USA;1
+C. James Koch;1565;2014;Boston Beer Company;USA;1
+Carlos Martins;1565;2014;Wizard language Schools;BRA;1
+Chang Pyung-Soon;1565;2014;Kyowon Co;KOR;1
+Christopher Burch;1565;2014;Tory Burch LLC;USA;1
+Dariusz Milek;1565;2014;Milek (now CCC);POL;1
+Ding Shijia;1565;2014;Anta Sports;CHN;1
+Ding Shizhong;1565;2014;China SCE Property Holdings Limited;CHN;1
+Dmitry Korzhev;1565;2014;Mega-Auto;RUS;1
+Dmitry Troitsky;1565;2014;Mega-Auto;RUS;1
+Elena Baturina;1565;2014;Inteco;RUS;1
+Enrique Banuelos;1565;2014;ASTROC;ESP;1
+Feng Hailiang;1565;2014;Hailiang Group;CHN;1
+Fred Chang;1565;2014;Newegg.com;USA;1
+Fu Kwan;1565;2014;Macrolink Group;CHN;1
+Graham Kirkham;1565;2014;DFS;GBR;1
+Harindarpal Banga;1565;2014;Noble Group;IND;1
+Henri Beaufour;1565;2014;Ipsen;FRA;1
+Horst Julius Pudwill;1565;2014;Techtronic Industries;DEU;1
+Huo Qinghua;1565;2014;China Kingho;CHN;1
+Ina Chan;1565;2014;Sociedade de Turismo e Divers?es de Macau;HKG;1
+Jeanine Dick;1565;2014;Virbac;FRA;1
+Jim Thompson;1565;2014;Crown Worldwide Group;USA;1
+Jitendra Virwani;1565;2014;Embassy Property Developments;IND;1
+John Morgridge;1565;2014;Cisco Systems;USA;1
+John Van Lieshout;1565;2014;;AUS;1
+Jorge Rodriguez Rodriguez;1565;2014;Jose Rodriguez Banda;PER;1
+Kenneth Tuchman;1565;2014;TeleTech;USA;1
+Lam Fong Ngo;1565;2014;Macau Legend;MAC;1
+Leon Charney;1565;2014;One Times Square;USA;1
+Leonard Schleifer;1565;2014;Regeneron Pharmaceuicals;USA;1
+Li Denghai;1565;2014;Shandong Denghai Seeds;CHN;1
+Li Shuirong;1565;2014;Rongsheng Petrochemical;CHN;1
+Lim Hariyanto Wijaya Sarwono;1565;2014;Bumitama Agri;IDN;1
+Lin Ming-Hsiung;1565;2014;Pxmart;Taiwan;1
+Liu Xiaomeng;1565;2014;Suning Group;CHN;1
+Michael Kors;1565;2014;Michael Kors;USA;1
+Michael Lynch;1565;2014;Autonomy Corporation;GBR;1
+Mikhail Abyzov;1565;2014;E4 Group;RUS;1
+Monika Schoeller;1565;2014;Verlagsgruppe Holtzbrinck;DEU;1
+Morris Kahn;1565;2014;Amdocs;ISR;1
+Murat Vargi;1565;2014;Turkcell;TUR;1
+Nerijus Numavicius;1565;2014;VP Group;LTU;1
+O. Francis Biondi;1565;2014;King Street Capital Management;USA;1
+Pavel Tykac;1565;2014;Motoinvest;CZE;1
+Philip Falcone;1565;2014;Harbinger Capital;USA;1
+Richard Chang;1565;2014;Advanced Semiconductor Engineering;Taiwan;1
+Robert Ingham;1565;2014;Inghams Enterprises;AUS;1
+Rostam Azizi;1565;2014;Vodacom Tanzania;TZA;1
+Ryan Kavanaugh;1565;2014;Relativity Media;USA;1
+Sara Blakely;1565;2014;Spanx;USA;1
+Seo Jung-Jin;1565;2014;Celltrion;KOR;1
+Sergei Petrov;1565;2014;Rolf Group;RUS;1
+Sergei Tsikalyuk;1565;2014;Military Insurance Company (VSK);RUS;1
+Serhiy Tihipko;1565;2014;PrivatBank;UKR;1
+Shoji Uehara;1565;2014;Taisho Pharmaceutical;JPN;1
+Stefan von Holtzbrinck;1565;2014;Verlagsgruppe Holtzbrinck;DEU;1
+T.S. Kalyanaraman;1565;2014;Kalyan Jewellers;IND;1
+Thomas Bailey;1565;2014;Janus Capital Group;USA;1
+Thomas Kaplan;1565;2014;Apex Silver Mines;USA;1
+Tory Burch;1565;2014;Tory Burch LLC;USA;1
+Vivek Chaand Sehgal;1565;2014;Samvardhana Motherson Group;AUS;1
+Wang Jianfeng;1565;2014;Ningo Joyson Electric;CHN;1
+Wang Muqing;1565;2014;China ZhengTong Auto Services;CHN;1
+Wang Yong;1565;2014;Xiwang Group;CHN;1
+William Moncrief, Jr.;1565;2014;Moncrief Oil;USA;1
+Wu Chung-Yi;1565;2014;Tingyi;Taiwan;1
+Wu Xiong;1565;2014;Biostime International Holdings;CHN;1
+Yang Keng;1565;2014;Blue Ray Corp;CHN;1
+Zdenek Bakala;1565;2014;Patria Finance;CZE;1
+Zhu Wenchen;1565;2014;Furen Pharmaceutical Group;CHN;1
